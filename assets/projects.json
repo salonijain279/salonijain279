@@ -1,6 +1,10 @@
 {
-  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; description overrides the repo's GitHub description. Only list repos that are actually pushed and public -- add InsightForge, VIX Volatility Forecasting, and PersonaPath here once each is live (PersonaPath specifically: not until its exposed-key history is scrubbed).",
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; description overrides the repo's GitHub description. Only list repos that are actually pushed and public -- add VIX Volatility Forecasting and PersonaPath here once each is live (PersonaPath specifically: not until its exposed-key history is scrubbed).",
   "projects": [
+    {
+      "repo": "InsightForge",
+      "description": "Evidence-grounded automated data scientist: routes plain-English questions to real EDA, predictive modelling, guarded causal analysis, and safely-executed generated code, all against the actual uploaded data."
+    },
     {
       "repo": "santander-customer-satisfaction",
       "description": "Six-model comparison with an Optuna-tuned, Nelder-Mead-weighted ensemble reaching 0.827 private-leaderboard ROC-AUC on Santander's customer satisfaction dataset."
