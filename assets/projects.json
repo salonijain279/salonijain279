@@ -1,0 +1,9 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; description overrides the repo's GitHub description. Only list repos that are actually pushed and public -- add InsightForge, VIX Volatility Forecasting, and PersonaPath here once each is live (PersonaPath specifically: not until its exposed-key history is scrubbed).",
+  "projects": [
+    {
+      "repo": "santander-customer-satisfaction",
+      "description": "Six-model comparison with an Optuna-tuned, Nelder-Mead-weighted ensemble reaching 0.827 private-leaderboard ROC-AUC on Santander's customer satisfaction dataset."
+    }
+  ]
+}

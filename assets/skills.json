@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Adjust freely -- these are my starting estimates based on project depth, not a formal assessment.",
+  "axes": [
+    { "label": "Python",            "value": 85 },
+    { "label": "SQL",               "value": 80 },
+    { "label": "Machine Learning",  "value": 78 },
+    { "label": "Statistics / R",    "value": 75 },
+    { "label": "Big Data / Spark",  "value": 68 },
+    { "label": "Data Viz / BI",     "value": 72 },
+    { "label": "MLOps",             "value": 60 }
+  ]
+}
