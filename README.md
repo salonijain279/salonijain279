@@ -28,8 +28,9 @@
 ## About Me
 
 Hi, I'm **Saloni Jain** 👋 — MS in Business Analytics at the **Carlson School of Management,
-University of Minnesota**. I build things at the intersection of applied ML and business
-decision-making, then explain what they actually mean.
+University of Minnesota**, turning messy data into decisions people can actually act on. I build
+at the intersection of applied ML and business strategy, then explain the results in plain terms
+instead of jargon.
 
 - 📊 Built a 6-model ensemble reaching **0.827 ROC-AUC** on Santander's customer-satisfaction benchmark
 - 🔨 Built **[InsightForge](https://github.com/salonijain279/InsightForge)**, an evidence-grounded automated data scientist for tabular data
