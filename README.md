@@ -27,16 +27,16 @@
 
 ## About Me
 
-Hi, I'm **Saloni Jain** 👋 — MS in Business Analytics at the **Carlson School of Management,
-University of Minnesota**, turning messy data into decisions people can actually act on. I build
-at the intersection of applied ML and business strategy, then explain the results in plain terms
-instead of jargon.
+Hi, I'm **Saloni Jain** 👋 — 5+ years turning messy ops data into decisions, now doing it with AI
+in the loop as an MS in Business Analytics candidate at the **Carlson School of Management,
+University of Minnesota**.
 
-- 📊 Built a 6-model ensemble reaching **0.827 ROC-AUC** on Santander's customer-satisfaction benchmark
-- 🔨 Built **[InsightForge](https://github.com/salonijain279/InsightForge)**, an evidence-grounded automated data scientist for tabular data
+- 🏥 Built an AI agent that answers HR's "why did this KPI move?" for **UnitedHealth Group** across 400K+ employees, turning a days-long dig into minutes
+- 🚚 Crunched 2.3M GPS pings for **4MATIV Technologies** to find out which delivery vendors were actually reliable
+- 📊 Taught a model to spot which customers were about to walk — **0.827 ROC-AUC** across 76K records → [santander-customer-satisfaction](https://github.com/salonijain279/santander-customer-satisfaction)
+- 🔨 Built **[InsightForge](https://github.com/salonijain279/InsightForge)**, an AI that runs its own EDA, modelling, and carefully-guarded causal analysis
 - 🎯 Open to **Business Analyst / Data Analyst and AI-in-business roles**, 2026
-- 📚 Learning **applied causal inference and MLOps**
-- 🛠️ Grounded in **Python, R, SQL, and PySpark** across coursework and Carlson Analytics Lab engagements
+- 🛠️ Python · SQL · R · Tableau/Power BI · Databricks · Spark · AWS/Azure/Snowflake
 
 <br>
 
