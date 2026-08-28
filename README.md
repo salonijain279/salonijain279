@@ -10,7 +10,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/salonijain279">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Saloni+Jain;Business+%26+AI+Analytics;Turning+Data+Into+Decisions" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Saloni+Jain;MS+Business+Analytics+%C2%B7+Carlson+School;Turning+Data+Into+Decisions" alt="typing banner">
 </a>
 
 <br>
@@ -27,13 +27,15 @@
 
 ## About Me
 
-Hi, I'm **Saloni Jain**. I'm a graduate student in business analytics who builds things at the
-intersection of applied ML and business decision-making, then explains what they actually mean.
+Hi, I'm **Saloni Jain** 👋 — MS in Business Analytics at the **Carlson School of Management,
+University of Minnesota**. I build things at the intersection of applied ML and business
+decision-making, then explain what they actually mean.
 
-- Currently building **InsightForge**, an evidence-grounded automated data scientist for tabular data
-- Open to **Business Analyst / Data Analyst and AI-in-business roles**
-- Learning **applied causal inference and MLOps**
-- Grounded in **Python, R, SQL, and PySpark** across coursework and analytics-lab client engagements
+- 📊 Built a 6-model ensemble reaching **0.827 ROC-AUC** on Santander's customer-satisfaction benchmark
+- 🔨 Currently building **InsightForge**, an evidence-grounded automated data scientist for tabular data
+- 🎯 Open to **Business Analyst / Data Analyst and AI-in-business roles**, 2026
+- 📚 Learning **applied causal inference and MLOps**
+- 🛠️ Grounded in **Python, R, SQL, and PySpark** across coursework and Carlson Analytics Lab engagements
 
 <br>
 
