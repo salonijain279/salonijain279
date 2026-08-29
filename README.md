@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Data+Analytics+Professional+%E2%86%92+Decision+Translator;Business+questions+in.+Evidence+out.;Building+analytics+people+can+actually+use." alt="Data Analytics Professional — Decision Translator" />
 </a>
 
-**Business & Data Analyst · AI-enabled analytics · MS Business Analytics @ Carlson**
+**Business & Data Analyst · AI-enabled analytics · MSBA Graduate @ UMN Carlson**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-jain-94a147167)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salonijainwork27@gmail.com)
@@ -22,7 +22,7 @@ Most analytics projects begin with a vague question: **What changed? Why? What s
 
 I turn ambiguous business problems and operational data into evidence people can act on. Over 5+ years, my work has moved from operations analytics to AI-enabled decision systems, but the goal has stayed the same: build the right analysis, make it trustworthy, and explain it in business terms.
 
-I am currently completing an **MS in Business Analytics at the University of Minnesota's Carlson School of Management**, adding machine learning and applied AI to a foundation in business analysis and operations.
+I recently earned my **MS in Business Analytics from the University of Minnesota's Carlson School of Management**, adding machine learning and applied AI to a foundation in business analysis and operations.
 
 > **My analytics loop:** Question → Evidence → Model → Decision → Measured impact
 
@@ -66,6 +66,6 @@ A team-built travel and dining recommender that learns behavioral preferences fr
 
 ## Currently
 
-Completing my MSBA at Carlson and exploring **2026 Business Analyst, Data Analyst, and applied AI opportunities**.
+Recent MSBA graduate from Carlson, exploring **Business Analyst, Data Analyst, and applied AI opportunities**.
 
 *Have a messy question and a useful dataset? We will probably get along.*
