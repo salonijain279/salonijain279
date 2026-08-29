@@ -1,39 +1,71 @@
-# Saloni Jain
+<div align="center">
 
-**Business & Data Analyst | AI-enabled analytics | MS Business Analytics @ Carlson**
+# Hey there — I make messy data make sense. 👋
 
-[LinkedIn](https://www.linkedin.com/in/saloni-jain-94a147167) · [Email](mailto:salonijainwork27@gmail.com) · [Projects](https://github.com/salonijain279?tab=repositories)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Data+Analytics+Professional+%E2%86%92+Decision+Translator;Business+questions+in.+Evidence+out.;Building+analytics+people+can+actually+use." alt="Data Analytics Professional — Decision Translator" />
+</a>
 
-I turn ambiguous business questions and operational data into decisions people can act on. I bring 5+ years of experience across analytics and operations, and I am currently completing an MS in Business Analytics at the University of Minnesota's Carlson School of Management.
+**Business & Data Analyst · AI-enabled analytics · MS Business Analytics @ Carlson**
 
-## Impact at a glance
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-jain-94a147167)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salonijainwork27@gmail.com)
+[![Projects](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/salonijain279?tab=repositories)
 
-- Built an AI-assisted root-cause analysis workflow for a Fortune 5 healthcare organization serving 400K+ employees, reducing KPI investigations from days to minutes.
-- Analyzed 2.3M GPS records for 4MATIV Technologies to benchmark delivery-vendor reliability and surface operational improvement opportunities.
-- Developed a customer-satisfaction model across 76K records, reaching 0.827 private-leaderboard ROC-AUC.
-- Built InsightForge, an evidence-grounded analytics agent for exploratory analysis, predictive modelling, visualization, and guarded causal analysis.
+</div>
 
-## Featured projects
+---
 
-### [InsightForge](https://github.com/salonijain279/InsightForge)
+## About me
 
-An automated data-science workspace that routes plain-English questions to real Python analysis. It combines deterministic analytics with LLM-assisted workflows, generated-code safeguards, evidence-linked responses, and explicit trust cards.
+Most analytics projects begin with a vague question: **What changed? Why? What should we do next?** That is my favorite part.
 
-`Python` `Streamlit` `pandas` `scikit-learn` `statsmodels` `LLMs`
+I turn ambiguous business problems and operational data into evidence people can act on. Over 5+ years, my work has moved from operations analytics to AI-enabled decision systems, but the goal has stayed the same: build the right analysis, make it trustworthy, and explain it in business terms.
 
-### [Santander Customer Satisfaction](https://github.com/salonijain279/santander-customer-satisfaction)
+I am currently completing an **MS in Business Analytics at the University of Minnesota's Carlson School of Management**, adding machine learning and applied AI to a foundation in business analysis and operations.
 
-An end-to-end classification workflow for identifying dissatisfied customers in a highly imbalanced dataset, with feature engineering, model tuning, and reproducible evaluation.
+> **My analytics loop:** Question → Evidence → Model → Decision → Measured impact
 
-`Python` `scikit-learn` `Optuna` `XGBoost` `Jupyter`
+## A few questions I have answered
+
+| Business question | Evidence & approach | Outcome |
+|---|---|---|
+| Why did this workforce KPI move? | AI-assisted root-cause analysis across a Fortune 5 healthcare organization serving **400K+ employees** | Turned a days-long investigation into **minutes** |
+| Which delivery vendors are actually reliable? | Analyzed **2.3M GPS pings** for 4MATIV Technologies | Built a fact base for vendor benchmarking and operational improvement |
+| Which customers are most likely to be dissatisfied? | Modelled **76K records** with a 24:1 class imbalance using a leak-free, five-model ensemble | Reached **0.82745 private-leaderboard ROC-AUC** |
+
+## Selected work
+
+### 🔨 [InsightForge](https://github.com/salonijain279/InsightForge) — analytics that shows its work
+
+An evidence-grounded workspace that turns plain-English questions into executed Python analysis—not just plausible-sounding answers. It routes requests across EDA, prediction, visualization, and guarded causal workflows, then links every explanation back to real tables, metrics, and charts.
+
+`Python` `Streamlit` `pandas` `scikit-learn` `statsmodels` `LLMs` `safe code execution`
+
+### 🎯 [Santander Customer Satisfaction](https://github.com/salonijain279/santander-customer-satisfaction) — signal in a sea of imbalance
+
+An end-to-end predictive analytics project spanning EDA, advanced feature engineering, shared five-fold validation, Optuna tuning, and a Nelder–Mead weighted ensemble across LightGBM, XGBoost, CatBoost, Random Forest, and a neural network.
+
+`Python` `LightGBM` `XGBoost` `CatBoost` `Optuna` `TensorFlow`
+
+### 🧭 [PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation) — recommendations beyond “what's nearby?”
+
+A team-built travel and dining recommender that learns behavioral preferences from Yelp data. I led **LDA behavioral modelling and feature engineering**; the Philadelphia build profiled **1,962 restaurants** and **20,017 user personas** from **261K high-quality reviews**.
+
+`PySpark` `Databricks` `LDA` `VADER` `Jensen–Shannon divergence` `RAG`
+
+## How I work
+
+- **Start with the decision, not the dashboard.** A technically correct answer is only useful if someone knows what to do with it.
+- **Make the evidence traceable.** Reproducible pipelines, honest assumptions, and visible limitations matter—especially when AI is involved.
+- **Translate across the room.** I enjoy making the same analysis useful to technical teams, operators, and business leaders.
 
 ## Toolkit
 
-- **Analysis:** Python, SQL, R, Excel, statistical modelling, experimentation
-- **BI & visualization:** Tableau, Power BI, Plotly
-- **Data platforms:** Databricks, Spark, Snowflake
-- **Cloud & delivery:** AWS, Azure, Git, GitHub, Streamlit
+`Python` `SQL` `R` `Excel` · `Tableau` `Power BI` `Plotly` · `Databricks` `Spark` `Snowflake` · `AWS` `Azure` `Git`
 
 ## Currently
 
-Completing my MS in Business Analytics at the Carlson School of Management and exploring 2026 opportunities in business analytics, data analytics, and applied AI.
+Completing my MSBA at Carlson and exploring **2026 Business Analyst, Data Analyst, and applied AI opportunities**.
+
+*Have a messy question and a useful dataset? We will probably get along.*
