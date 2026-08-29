@@ -1,12 +1,8 @@
 <div align="center">
 
-# Hey there — I make messy data make sense. 👋
+# Hi, I'm Saloni 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Data+Analytics+Professional+%E2%86%92+Decision+Translator;Business+questions+in.+Evidence+out.;Building+analytics+people+can+actually+use." alt="Data Analytics Professional — Decision Translator" />
-</a>
-
-**Business & Data Analyst · AI-enabled analytics · MSBA Graduate @ UMN Carlson**
+**Business & Data Analyst | MS Business Analytics, UMN Carlson | Minneapolis, MN**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-jain-94a147167)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salonijainwork27@gmail.com)
@@ -16,11 +12,11 @@
 
 ---
 
-## 🚀 About me
+## About me
 
-I'm a Business & Data Analyst with 5+ years of experience across analytics and operations. I use Python, SQL, Tableau, Power BI, and machine learning to understand business problems and turn data into practical recommendations.
+I'm a Business & Data Analyst with 5+ years of experience improving business processes and operations. My background includes workflow automation, ERP implementation, operational reporting, and data-driven decision support.
 
-I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management. My interests include business and operational analytics, predictive modelling, experimentation, data visualization, and applied AI.
+I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management, where I strengthened my skills in Python, SQL, predictive modelling, experimentation, and data visualization. I enjoy working on problems where analysis can lead to a clear, practical decision.
 
 ## 🔍 Areas of focus
 
