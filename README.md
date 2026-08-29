@@ -16,23 +16,24 @@
 
 ---
 
-## About me
+## 🚀 About me
 
-Most analytics projects begin with a vague question: **What changed? Why? What should we do next?** That is my favorite part.
+My career started close to operations—where the data was messy, the questions were urgent, and an analysis mattered only if it changed what happened next. Over 5+ years, I learned to work backward from the decision: clarify the business question, find the signal, and make the answer usable—not just technically correct.
 
-I turn ambiguous business problems and operational data into evidence people can act on. Over 5+ years, my work has moved from operations analytics to AI-enabled decision systems, but the goal has stayed the same: build the right analysis, make it trustworthy, and explain it in business terms.
+That mindset has taken me from investigating workforce KPIs for a Fortune 5 healthcare organization across a **400K+ employee population** to analyzing **2.3M GPS pings** for delivery-vendor reliability. Different data, same question: **What changed, why did it change, and what should we do next?**
 
-I recently earned my **MS in Business Analytics from the University of Minnesota's Carlson School of Management**, adding machine learning and applied AI to a foundation in business analysis and operations.
+Wanting stronger answers to that question led me to the **MS in Business Analytics at the University of Minnesota's Carlson School of Management**, which I recently completed. I added predictive modelling, experimentation, and applied AI to the operational judgment I had already built.
+
+Today, I work at the intersection of **data, business context, and decision-making**—comfortable moving from a stakeholder's half-formed question to the SQL or Python behind the answer, and then translating the result into a recommendation people can use.
 
 > **My analytics loop:** Question → Evidence → Model → Decision → Measured impact
 
-## A few questions I have answered
+## 🔍 Areas of focus
 
-| Business question | Evidence & approach | Outcome |
-|---|---|---|
-| Why did this workforce KPI move? | AI-assisted root-cause analysis across a Fortune 5 healthcare organization serving **400K+ employees** | Turned a days-long investigation into **minutes** |
-| Which delivery vendors are actually reliable? | Analyzed **2.3M GPS pings** for 4MATIV Technologies | Built a fact base for vendor benchmarking and operational improvement |
-| Which customers are most likely to be dissatisfied? | Modelled **76K records** with a 24:1 class imbalance using a leak-free, five-model ensemble | Reached **0.82745 private-leaderboard ROC-AUC** |
+- **Business & Operations Analytics** — KPI root-cause analysis, decision support, and vendor reliability; including workforce analytics at 400K+ employee scale and operational analysis across 2.3M GPS pings.
+- **Predictive Modelling & Experimentation** — feature engineering, imbalanced classification, model evaluation, and causal thinking; including a five-model ensemble that reached **0.82745 private-leaderboard ROC-AUC**.
+- **AI-enabled Analytics** — LLM-assisted workflows that execute the analysis, ground responses in real evidence, and expose assumptions and limitations.
+- **BI & Decision Storytelling** — SQL-driven analysis and Tableau, Power BI, and Plotly experiences that make complex findings clear to technical and business audiences.
 
 ## Selected work
 
