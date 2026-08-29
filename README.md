@@ -18,15 +18,9 @@
 
 ## 🚀 About me
 
-My career started close to operations—where the data was messy, the questions were urgent, and an analysis mattered only if it changed what happened next. Over 5+ years, I learned to work backward from the decision: clarify the business question, find the signal, and make the answer usable—not just technically correct.
+I'm a Business & Data Analyst with 5+ years of experience across analytics and operations. I use Python, SQL, Tableau, Power BI, and machine learning to understand business problems and turn data into practical recommendations.
 
-That mindset has taken me from investigating workforce KPIs for a Fortune 5 healthcare organization across a **400K+ employee population** to analyzing **2.3M GPS pings** for delivery-vendor reliability. Different data, same question: **What changed, why did it change, and what should we do next?**
-
-Wanting stronger answers to that question led me to the **MS in Business Analytics at the University of Minnesota's Carlson School of Management**, which I recently completed. I added predictive modelling, experimentation, and applied AI to the operational judgment I had already built.
-
-Today, I work at the intersection of **data, business context, and decision-making**—comfortable moving from a stakeholder's half-formed question to the SQL or Python behind the answer, and then translating the result into a recommendation people can use.
-
-> **My analytics loop:** Question → Evidence → Model → Decision → Measured impact
+I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management. My interests include business and operational analytics, predictive modelling, experimentation, data visualization, and applied AI.
 
 ## 🔍 Areas of focus
 
