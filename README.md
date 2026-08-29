@@ -35,25 +35,17 @@ Today, I work at the intersection of **data, business context, and decision-maki
 - **AI-enabled Analytics** — LLM-assisted workflows that execute the analysis, ground responses in real evidence, and expose assumptions and limitations.
 - **BI & Decision Storytelling** — SQL-driven analysis and Tableau, Power BI, and Plotly experiences that make complex findings clear to technical and business audiences.
 
-## Selected work
+## 📂 Selected work
 
-### 🔨 [InsightForge](https://github.com/salonijain279/InsightForge) — analytics that shows its work
+Three projects, three different kinds of business ambiguity:
 
-An evidence-grounded workspace that turns plain-English questions into executed Python analysis—not just plausible-sounding answers. It routes requests across EDA, prediction, visualization, and guarded causal workflows, then links every explanation back to real tables, metrics, and charts.
+| Project | Business question | Proof in the build |
+|---|---|---|
+| **[InsightForge](https://github.com/salonijain279/InsightForge)**<br>Python · Streamlit · LLMs | Can an AI analyst show its work instead of just sounding right? | Routes questions across EDA, prediction, visualization, and guarded causal workflows; executes Python first, then grounds the explanation in recorded results. Includes AST-gated code execution, trust cards, regression tests, and an evaluation suite. |
+| **[Santander Customer Satisfaction](https://github.com/salonijain279/santander-customer-satisfaction)**<br>Python · Gradient Boosting · Optuna | Who is likely to be dissatisfied when only 4% of customers are? | Built on 76K records with shared five-fold validation, advanced feature engineering, Optuna tuning, and a five-model Nelder–Mead blend; reached **0.82745 private-leaderboard ROC-AUC**. |
+| **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)**<br>PySpark · LDA · Databricks | Can recommendations reflect behavior—not just proximity? | Led LDA behavioral modelling and feature engineering; the Philadelphia build used 261K high-quality reviews to profile **20,017 user personas** and **1,962 restaurants** with sentiment and Jensen–Shannon similarity. |
 
-`Python` `Streamlit` `pandas` `scikit-learn` `statsmodels` `LLMs` `safe code execution`
-
-### 🎯 [Santander Customer Satisfaction](https://github.com/salonijain279/santander-customer-satisfaction) — signal in a sea of imbalance
-
-An end-to-end predictive analytics project spanning EDA, advanced feature engineering, shared five-fold validation, Optuna tuning, and a Nelder–Mead weighted ensemble across LightGBM, XGBoost, CatBoost, Random Forest, and a neural network.
-
-`Python` `LightGBM` `XGBoost` `CatBoost` `Optuna` `TensorFlow`
-
-### 🧭 [PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation) — recommendations beyond “what's nearby?”
-
-A team-built travel and dining recommender that learns behavioral preferences from Yelp data. I led **LDA behavioral modelling and feature engineering**; the Philadelphia build profiled **1,962 restaurants** and **20,017 user personas** from **261K high-quality reviews**.
-
-`PySpark` `Databricks` `LDA` `VADER` `Jensen–Shannon divergence` `RAG`
+👉 **[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
 
 ## How I work
 
