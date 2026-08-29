@@ -31,7 +31,7 @@ Hi, I'm **Saloni Jain** 👋 — 5+ years turning messy ops data into decisions,
 in the loop as an MS in Business Analytics candidate at the **Carlson School of Management,
 University of Minnesota**.
 
-- 🏥 Built an AI agent that answers HR's "why did this KPI move?" for **UnitedHealth Group** across 400K+ employees, turning a days-long dig into minutes
+- 🏥 Built an AI agent that answers HR's "why did this KPI move?" for a **Fortune 5 healthcare client** across 400K+ employees, turning a days-long dig into minutes
 - 🚚 Crunched 2.3M GPS pings for **4MATIV Technologies** to find out which delivery vendors were actually reliable
 - 📊 Taught a model to spot which customers were about to walk — **0.827 ROC-AUC** across 76K records → [santander-customer-satisfaction](https://github.com/salonijain279/santander-customer-satisfaction)
 - 🔨 Built **[InsightForge](https://github.com/salonijain279/InsightForge)**, an AI that runs its own EDA, modelling, and carefully-guarded causal analysis
