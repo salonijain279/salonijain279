@@ -2,9 +2,9 @@
 
 # Hi, I'm Saloni 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+data+into+practical+decisions;Building+analytics+people+can+actually+use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+business+questions+into+useful+analytics;From+data+foundations+to+models+and+AI)](https://git.io/typing-svg)
 
-**Senior Data Analyst | MS Business Analytics, UMN Carlson | Minneapolis, MN**
+**Data Analytics Professional | Business Intelligence · Predictive Analytics · AI | Minneapolis, MN**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-jain-94a147167)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salonijainwork27@gmail.com)
@@ -16,20 +16,23 @@
 
 ## About me
 
-I'm a Senior Data Analyst with 5+ years of experience across analytics, consulting, and operations. My background includes people analytics, data quality and KPI monitoring, workflow automation, ERP implementation, and decision support for business teams.
+I'm a data analytics professional with 5+ years of experience across analytics, consulting, and operations. I work across the analytics lifecycle: understanding the business question, building reliable data foundations, exploring patterns, developing models, and translating results into decisions people can use.
 
-I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management, specializing in the AI in Business track as a Merit Scholar. I use SQL, Python, R, Spark, Databricks, Tableau, and Power BI to build reliable analysis, self-service reporting, predictive models, and interpretable AI workflows.
+My experience spans people analytics, data quality and governance, business intelligence, workflow automation, ERP implementation, and operational decision support. Along the way, I have worked with workforce, transportation, manufacturing, insurance, financial, and consumer-behavior data—moving between technical analysis and the business context behind it.
 
-## 🔍 Areas of focus
+I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management as an AI in Business Merit Scholar. The program broadened my practice across statistics and econometrics, programming and data management, exploratory and predictive analytics, big data, causal inference, time-series forecasting, marketing analytics, product development, and responsible and generative AI.
 
-- **Data Quality & Self-Service Analytics** — KPI definitions, validation rules, monitoring, and decision-ready reporting across large operational datasets.
-- **Predictive & Time-Series Modelling** — classification, feature engineering, ARIMA, XGBoost, model evaluation, and experiment design.
-- **Explainable & Responsible AI** — SHAP-based interpretation, model limitations, human review, and communication for non-technical stakeholders.
-- **AI-enabled Analytics** — LLM-assisted workflows that execute analysis, preserve evidence, and make assumptions visible.
+## 🔍 Analytics breadth
+
+- **Business & Decision Analytics** — framing ambiguous questions, defining useful metrics, and connecting analysis to operational, customer, product, and strategic decisions.
+- **Data Foundations & Business Intelligence** — SQL, ETL, data modelling, warehousing, quality controls, KPI systems, dashboards, and self-service reporting.
+- **Statistical & Predictive Analytics** — exploratory analysis, regression, classification, clustering, risk scoring, time-series forecasting, and model evaluation.
+- **Experimentation & Causal Thinking** — A/B testing, econometrics, causal inference, and careful separation of association from impact.
+- **Big Data, NLP & Applied AI** — Spark and Databricks workflows, recommendation systems, LLM-enabled analytics, explainability, privacy, and responsible AI.
 
 ## 📂 Selected work
 
-A selection of projects across predictive modelling, NLP, time series, and responsible AI:
+A selection of work spanning data products, predictive modelling, NLP, big data, time series, and responsible AI:
 
 | Project | Business question | Proof in the build |
 |---|---|---|
@@ -43,14 +46,17 @@ A selection of projects across predictive modelling, NLP, time series, and respo
 
 ## How I work
 
-- **Start with the decision, not the dashboard.** A technically correct answer is only useful if someone knows what to do with it.
-- **Make the evidence traceable.** Reproducible pipelines, honest assumptions, and visible limitations matter—especially when AI is involved.
-- **Translate across the room.** I enjoy making the same analysis useful to technical teams, operators, and business leaders.
+- **Understand the problem before choosing the method.** The right output might be a query, dashboard, experiment, model, or process change.
+- **Build from reliable foundations.** Clear definitions, reproducible workflows, and visible assumptions make analysis easier to trust and reuse.
+- **Connect technical work to business context.** I enjoy making the same evidence useful to analysts, operators, and decision-makers.
 
 ## Toolkit
 
-`Python` `SQL` `R` `Excel` · `Tableau` `Power BI` `Plotly` · `Databricks` `Spark` `Snowflake` · `AWS` `Azure` `Git`
+- **Analysis:** `Python` `SQL` `R` `Excel` · regression · clustering · experimentation · causal inference · time series
+- **Data & Platforms:** `Spark` `Databricks` `Snowflake` · data warehousing · ETL · data quality and governance
+- **BI & Communication:** `Tableau` `Power BI` `Plotly` · KPI design · executive reporting · data storytelling
+- **AI & Delivery:** NLP · LLM workflows · explainability · responsible AI · `AWS` `Azure` `Git`
 
 ## Currently
 
-Recent MSBA graduate from Carlson, exploring **Senior Data Analyst, Data Analyst, Business Analyst, and applied AI opportunities**.
+Recent MSBA graduate from Carlson, exploring opportunities across **business and data analytics, business intelligence, predictive analytics, data science, and applied AI**.
