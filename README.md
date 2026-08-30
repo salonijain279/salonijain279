@@ -2,6 +2,8 @@
 
 # Hi, I'm Saloni 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+data+into+practical+decisions;Building+analytics+people+can+actually+use)](https://git.io/typing-svg)
+
 **Senior Data Analyst | MS Business Analytics, UMN Carlson | Minneapolis, MN**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-jain-94a147167)
