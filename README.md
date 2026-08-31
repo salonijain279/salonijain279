@@ -36,7 +36,7 @@ I recently completed my MS in Business Analytics at the University of Minnesota'
 
 ## 📂 Selected work
 
-A selection of work spanning data products, predictive modelling, NLP, big data, time series, and responsible AI:
+A selection of work spanning data products, predictive modelling, geospatial analytics, NLP, big data, time series, and responsible AI:
 
 | Project | Business question | Proof in the build |
 |---|---|---|
@@ -44,6 +44,7 @@ A selection of work spanning data products, predictive modelling, NLP, big data,
 | **[Santander Customer Satisfaction](https://github.com/salonijain279/santander-customer-satisfaction)**<br>Python · Gradient Boosting · Optuna | Who is likely to be dissatisfied when only 4% of customers are? | Built on 76K records with shared five-fold validation, advanced feature engineering, Optuna tuning, and a five-model Nelder–Mead blend; reached **0.82745 private-leaderboard ROC-AUC**. |
 | **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)**<br>PySpark · LDA · Databricks | Can recommendations reflect behavior—not just proximity? | Led LDA behavioral modelling and feature engineering; the Philadelphia build used 261K high-quality reviews to profile **20,017 user personas** and **1,962 restaurants** with sentiment and Jensen–Shannon similarity. |
 | **[Competitor Bidding Analytics](https://github.com/salonijain279/Competitor-Bidding-Analytics)**<br>Python · pandas · Tableau-ready metrics | Which competitors are frequent, which are effective, and where might losses be recoverable? | Reconstructed a confidential MSBA live case as an anonymized analysis framework: bidder normalization, co-bid overlap, Win Pressure Index, impact scoring, relative win/loss margins, and segment-ready outputs. Client data and results remain private. |
+| **[GPS Route Reliability Monitoring](https://github.com/salonijain279/GPS-Route-Reliability-Monitoring)**<br>Python · pandas · NumPy · Haversine geofencing | When a route looks incomplete, is the operation underperforming—or is the GPS record unreliable? | Rebuilt the GPS-quality branch of an exploratory analytics live case with 60 synthetic trips: provider-calibrated coverage, time-gap and frozen-device checks, vectorized spatial distance, impossible-speed detection, stop geofences, route order, and recurring device-health diagnostics. |
 | **[VIX Volatility Forecasting](https://github.com/salonijain279/vix-volatility-forecasting)**<br>R · ARIMA · XGBoost | Which model is more useful for short-horizon market-risk monitoring? | Compared ARIMA and recursive XGBoost forecasts on 8,685 daily observations. ARIMA achieved **0.4165 test RMSE**, approximately **9.8% lower** than the XGBoost challenger on the 10-day holdout. |
 | **[Interpretable Bankruptcy Risk](https://github.com/salonijain279/interpretable-bankruptcy-risk)**<br>Python · Random Forest · SHAP | Can a risk model remain useful without becoming a black box? | Compared four global-interpretation methods across 24 accounting ratios. Random Forest reached **0.852 test accuracy**, while the two SHAP approaches produced strongly consistent rankings. |
 
@@ -67,7 +68,7 @@ A selection of work spanning data products, predictive modelling, NLP, big data,
 
 ## Toolkit
 
-- **Analysis:** `Python` `SQL` `R` `Excel` · regression · clustering · experimentation · causal inference · time series
+- **Analysis:** `Python` `SQL` `R` `Excel` · regression · clustering · experimentation · causal inference · time series · geospatial analytics
 - **Data & Platforms:** `Spark` `Databricks` `Snowflake` · data warehousing · ETL · data quality and governance
 - **BI & Communication:** `Tableau` `Power BI` `Plotly` · KPI design · executive reporting · data storytelling
 - **AI & Delivery:** NLP · LLM workflows · explainability · responsible AI · `AWS` `Azure` `Git`
