@@ -2,15 +2,17 @@
 
 # Hi, I'm Saloni 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+business+questions+into+useful+analytics;From+data+foundations+to+models+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+business+questions+into+useful+analytics;Building+from+data+foundations+to+models+and+AI)](https://git.io/typing-svg)
 
-*“Good analytics doesn’t end with an answer—it makes the next decision clearer.”*
+**Data Analytics Professional · Business Intelligence · Predictive Analytics · Applied AI**
 
-**Data Analytics Professional | Business Intelligence · Predictive Analytics · AI | Minneapolis, MN**
+🎓 MS Business Analytics, UMN Carlson &nbsp;·&nbsp; 📍 Minneapolis, MN
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-jain-94a147167)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salonijainwork27@gmail.com)
-[![Projects](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/salonijain279?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-jain-94a147167)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salonijainwork27@gmail.com)
+[![Repositories](https://img.shields.io/badge/-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/salonijain279?tab=repositories)
+
+<sub><i>“Good analytics doesn’t end with an answer—it makes the next decision clearer.”</i></sub>
 
 </div>
 
