@@ -44,6 +44,17 @@ A selection of work spanning data products, predictive modelling, NLP, big data,
 
 👉 **[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
 
+### Big Data, Cloud & MLOps
+
+| Repository | What it demonstrates |
+|---|---|
+| **[Spark Data Engineering Casebook](https://github.com/salonijain279/Spark-Data-Engineering-Casebook)** | Rerun-safe PySpark pipelines for semi-structured Yelp data, Wikipedia clickstream flows, and airline route metrics. |
+| **[Distributed Machine Learning with PySpark](https://github.com/salonijain279/Distributed-Machine-Learning-with-PySpark)** | Spark ML pipelines for classification, regression, feature engineering, evaluation, and cross-validated model selection. |
+| **[Real-Time Analytics with Spark Streaming](https://github.com/salonijain279/Real-Time-Analytics-with-Spark-Streaming)** | File-based micro-batches, streaming text signals, and watermark-bounded IoT event windows. |
+| **[MLflow & Containerized Model Serving](https://github.com/salonijain279/MLflow-and-Containerized-Model-Serving)** | Experiment tracking, reproducible training, typed FastAPI inference, and Docker packaging. |
+| **[Databricks AI Gateway Chatbot](https://github.com/salonijain279/Databricks-AI-Gateway-Chatbot)** | Secure Streamlit chat interface for an OpenAI-compatible Databricks endpoint. |
+| **[StyleSignal Retail Trend Intelligence](https://github.com/salonijain279/StyleSignal-Retail-Trend-Intelligence)** | Explainable trend velocity, lifecycle signals, and uncertainty-aware retail order ranges. |
+
 ## How I work
 
 - **Understand the problem before choosing the method.** The right output might be a query, dashboard, experiment, model, or process change.
