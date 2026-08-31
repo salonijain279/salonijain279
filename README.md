@@ -57,7 +57,7 @@ A selection of work spanning data products, predictive modelling, NLP, big data,
 | **[Distributed Machine Learning with PySpark](https://github.com/salonijain279/Distributed-Machine-Learning-with-PySpark)** | Spark ML pipelines for classification, regression, feature engineering, evaluation, and cross-validated model selection. |
 | **[Real-Time Analytics with Spark Streaming](https://github.com/salonijain279/Real-Time-Analytics-with-Spark-Streaming)** | File-based micro-batches, streaming text signals, and watermark-bounded IoT event windows. |
 | **[MLflow & Containerized Model Serving](https://github.com/salonijain279/MLflow-and-Containerized-Model-Serving)** | Experiment tracking, reproducible training, typed FastAPI inference, and Docker packaging. |
-| **[Databricks AI Gateway Chatbot](https://github.com/salonijain279/Databricks-AI-Gateway-Chatbot)** | Secure Streamlit chat interface for an OpenAI-compatible Databricks endpoint. |
+| **[Databricks AI Gateway Chatbot](https://github.com/salonijain279/Databricks-AI-Gateway-Chatbot)** | Streamlit chatbot with multi-turn history and a Databricks-hosted language model. |
 
 ## How I work
 
