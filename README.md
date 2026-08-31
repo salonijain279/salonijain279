@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+business+questions+into+useful+analytics;From+data+foundations+to+models+and+AI)](https://git.io/typing-svg)
 
+*“Good analytics doesn’t end with an answer—it makes the next decision clearer.”*
+
 **Data Analytics Professional | Business Intelligence · Predictive Analytics · AI | Minneapolis, MN**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-jain-94a147167)
