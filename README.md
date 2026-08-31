@@ -2,7 +2,7 @@
 
 # Hi, I'm Saloni 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+business+questions+into+useful+analytics;Building+from+data+foundations+to+models+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=1400&pause=2200&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+business+questions+into+useful+analytics;Building+from+data+foundations+to+models+and+AI)](https://git.io/typing-svg)
 
 **Data Analytics Professional · Business Intelligence · Predictive Analytics · Applied AI**
 
