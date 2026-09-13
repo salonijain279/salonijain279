@@ -150,17 +150,17 @@ Public repositories organized by analytical domain — every project links out t
 
 | Repository | What it demonstrates |
 |---|---|
-| **[Wholesale Customer Segmentation](https://github.com/salonijain279/Wholesale-Customer-Segmentation)** | K-means vs. Ward hierarchical clustering on wholesale purchasing behavior, selected by silhouette width. |
-| **[Education Testing Disparity Analysis](https://github.com/salonijain279/Education-Testing-Disparity-Analysis)** | Comparing testing-outcome disparities and K-Means segments on synthetic education data. |
+| **[Distributor Customer Segmentation](https://github.com/salonijain279/Wholesale-Customer-Segmentation)** | K-means vs. Ward hierarchical clustering on wholesale purchasing behavior, selected by silhouette width. |
+| **[Student Testing Outcomes & Segmentation](https://github.com/salonijain279/Education-Testing-Disparity-Analysis)** | Comparing testing-outcome disparities and K-Means segments on synthetic education data. |
 
 ### 📈 Marketing & Consumer Analytics
 
 | Repository | What it demonstrates |
 |---|---|
-| **[iPhone Conjoint Marketing Analysis](https://github.com/salonijain279/iPhone-Conjoint-Product-Design)** | Conjoint-based pricing and feature trade-off marketing analysis — price, storage, and color scenario modeling. |
-| **[Athletic Shoe Brand Positioning](https://github.com/salonijain279/Athletic-Shoe-Brand-Positioning)** | Perceptual mapping for brand-positioning strategy — aggregate similarity and attribute-distance marketing analysis. |
-| **[Chewy Customer Discovery & Marketing Strategy](https://github.com/salonijain279/Chewy-Product-Discovery-Strategy)** | Customer research and marketing strategy for reducing choice overload with transparent recommendations. |
-| **[Salesforce Go-to-Market & Business Assessment](https://github.com/salonijain279/Salesforce-Business-Assessment)** | 4P/5C marketing analysis connected to strategy, financials, and operations in one company assessment. |
+| **[iPhone Pricing & Feature Strategy](https://github.com/salonijain279/iPhone-Conjoint-Product-Design)** | Conjoint-based pricing and feature trade-off marketing analysis — price, storage, and color scenario modeling. |
+| **[Athletic Footwear Brand Strategy](https://github.com/salonijain279/Athletic-Shoe-Brand-Positioning)** | Perceptual mapping for brand-positioning strategy — aggregate similarity and attribute-distance marketing analysis. |
+| **[Chewy Customer Experience Strategy](https://github.com/salonijain279/Chewy-Product-Discovery-Strategy)** | Customer research and marketing strategy for reducing choice overload with transparent recommendations. |
+| **[Salesforce Company & Market Assessment](https://github.com/salonijain279/Salesforce-Business-Assessment)** | 4P/5C marketing analysis connected to strategy, financials, and operations in one company assessment. |
 
 ### 🚚 Operational & Geospatial Analytics
 
@@ -168,11 +168,15 @@ Public repositories organized by analytical domain — every project links out t
 |---|---|
 | **[GPS Route Reliability Monitoring](https://github.com/salonijain279/GPS-Route-Reliability-Monitoring)** | Geospatial GPS reliability analysis with Haversine geofencing, spatial anomaly detection, and device-health scoring. |
 
-### 🏆 Hackathons & Applied Case Studies
+### 🏆 Extracurriculars
 
-| Repository | What it demonstrates |
+| Project | What it demonstrates |
 |---|---|
 | **[HeatMap Hackathon: Burn-Care Referral Networks](https://github.com/salonijain279/HeatMap-Hackathon)** | Mapping geographic gaps and referral bottlenecks across 635 US trauma/burn-care hospitals using structural NIRD data — no patient records used. |
+| 🏆 **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)** — Winner, Big Data Trends case competition | LDA behavioral modeling and feature engineering for a team-built dining recommender; see the Generative AI section above for the full writeup. |
+| **CHRLIS Hackathon** — HR case competition | Workforce/operations case analysis for a fictional company. Team submission; not yet published individually. |
+| **AGI Hackathon (Celonis)** | Process-mining case competition on travel & sustainability data. Deck-based deliverable; no code to publish. |
+| **[Responsible AI: Homebuyer Coach](https://github.com/salonijain279/Responsible-AI-Homebuyer-Coach)** | Product strategy, governance, and evaluation framework for a first-time homebuyer AI coach. |
 
 👉 **[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
 
