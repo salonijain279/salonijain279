@@ -193,12 +193,3 @@ Public repositories organized by analytical domain — every project links out t
 ## Currently
 
 Recent MSBA graduate from Carlson, exploring opportunities across **business and data analytics, business intelligence, predictive analytics, data science, and applied AI**.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=salonijain279&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonijain279&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-
-</div>
