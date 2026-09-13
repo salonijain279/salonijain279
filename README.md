@@ -24,9 +24,11 @@
 
 ## About me
 
-I'm a data analytics professional with 5+ years of experience across analytics, consulting, and operations. Most of that work comes down to the same question: what should change, in practice, because of this analysis — not just what the numbers say. That's meant working through people analytics, ERP implementations, data governance, and workforce, transportation, manufacturing, insurance, financial, and consumer-behavior data, and staying close to both the technical work and the business reason it existed.
+I'm a data analytics professional with 5+ years of experience across analytics, consulting, and operations. I work across the analytics lifecycle: understanding the business question, building reliable data foundations, exploring patterns, developing models, and translating results into decisions people can use.
 
-I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management as an AI in Business Merit Scholar, covering statistics and econometrics, causal inference, big data, time-series forecasting, and responsible and generative AI. The projects below are where I've been applying it since.
+My experience spans people analytics, data quality and governance, business intelligence, workflow automation, ERP implementation, and operational decision support. Along the way, I have worked with workforce, transportation, manufacturing, insurance, financial, and consumer-behavior data—moving between technical analysis and the business context behind it.
+
+I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management as an AI in Business Merit Scholar. The program broadened my practice across statistics and econometrics, programming and data management, exploratory and predictive analytics, big data, causal inference, time-series forecasting, marketing analytics, product development, and responsible and generative AI.
 
 ---
 
@@ -178,9 +180,9 @@ Public repositories organized by analytical domain — every project links out t
 
 ## How I work
 
-- **I run what I build.** Every project here was executed end to end, not just written — issues found along the way (a schema conflict, a comparison-window bug) were fixed and are visible in the commit history rather than smoothed over.
-- **I document limitations, not just results.** Each README includes what the finding doesn't cover and where it stops generalizing, so the result is usable rather than just impressive.
-- **I validate before I report.** Chronological train/test splits, significance testing on group differences, and held-out evaluation — checking that a result holds up, not just that it looked good once.
+- **Understand the problem before choosing the method.** The right output might be a query, dashboard, experiment, model, or process change.
+- **Build from reliable foundations.** Clear definitions, reproducible workflows, and visible assumptions make analysis easier to trust and reuse.
+- **Connect technical work to business context.** I enjoy making the same evidence useful to analysts, operators, and decision-makers.
 
 ## Toolkit
 
