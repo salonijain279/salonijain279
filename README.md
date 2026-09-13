@@ -18,6 +18,18 @@
 
 ---
 
+### 📌 Proof points, not just claims
+
+| Result | From |
+|---|---|
+| **z = 11.4, p < 0.0001** statistically significant fairness disparity — independently reproduced ProPublica's COMPAS finding, then cut the gap **72%** with Fairlearn | [Algorithmic Fairness Audit](https://github.com/salonijain279/algorithmic-fairness-audit) |
+| **0.934 ROC-AUC** bank-marketing classifier, benchmarked against 5 other algorithms under identical conditions | [Predictive Model Benchmarking](https://github.com/salonijain279/predictive-model-benchmarking) |
+| **99.34% validation accuracy** EfficientNetB4 image classifier, with a from-scratch PyTorch replication of a deep-learning theory result alongside it | [Deep Learning](https://github.com/salonijain279/deep-learning-image-classification) |
+| **~79% fraud capture** at a fixed 500-alerts/day review capacity, with SHAP reason codes on every flagged transaction | [Payments Fraud Investigation Engine](https://github.com/salonijain279/payments-fraud-investigation) |
+| **0.827 private-leaderboard ROC-AUC** on a ~24:1 imbalanced, 76K-record dataset | [Santander Customer Satisfaction](https://github.com/salonijain279/santander-customer-satisfaction) |
+
+---
+
 ## About me
 
 I'm a data analytics professional with 5+ years of experience across analytics, consulting, and operations. I work across the analytics lifecycle: understanding the business question, building reliable data foundations, exploring patterns, developing models, and translating results into decisions people can use.
