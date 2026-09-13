@@ -14,7 +14,54 @@
 
 <sub><i>“Good analytics doesn’t end with an answer—it makes the next decision clearer.”</i></sub>
 
+<br>
+
+[![Skills](https://skillicons.dev/icons?i=python,r,mysql,pytorch,tensorflow,docker,aws,azure,git,github,jupyter)](https://skillicons.dev)
+
 </div>
+
+---
+
+## ✨ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Payments Fraud Investigation Engine](https://github.com/salonijain279/payments-fraud-investigation)**
+<br>SQL · XGBoost · SHAP · Streamlit
+
+End-to-end fraud risk scoring on real transaction data — chronological validation, threshold and cost-sensitive decisioning, SHAP reason codes, and a 4-page investigator console.
+
+</td>
+<td width="50%" valign="top">
+
+**[Algorithmic Fairness Audit](https://github.com/salonijain279/algorithmic-fairness-audit)**
+<br>Python · scikit-learn · Fairlearn · Streamlit
+
+Statistically significant bias audit on recidivism risk-scoring, independently reproducing ProPublica's COMPAS finding, then mitigating it with Fairlearn.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[InsightForge](https://github.com/salonijain279/InsightForge)**
+<br>Python · Streamlit · LLMs
+
+An automated data-scientist app that routes plain-English questions to real EDA, predictive modeling, and guarded causal workflows — executes code first, then explains the actual result.
+
+</td>
+<td width="50%" valign="top">
+
+**[Deep Learning: Network Depth Theory & Transfer Learning](https://github.com/salonijain279/network-depth-theory-and-transfer-learning)**
+<br>PyTorch · TensorFlow/Keras
+
+An independent replication of a deep-vs-shallow-network theory result, paired with EfficientNetB4 transfer learning for image classification.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -146,3 +193,12 @@ Public repositories organized by analytical domain — every project links out t
 ## Currently
 
 Recent MSBA graduate from Carlson, exploring opportunities across **business and data analytics, business intelligence, predictive analytics, data science, and applied AI**.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salonijain279&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonijain279&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+
+</div>
