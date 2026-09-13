@@ -30,9 +30,11 @@ I recently completed my MS in Business Analytics at the University of Minnesota'
 
 - **Business & Decision Analytics** — framing ambiguous questions, defining useful metrics, and connecting analysis to operational, customer, product, and strategic decisions.
 - **Data Foundations & Business Intelligence** — SQL, ETL, data modelling, warehousing, quality controls, KPI systems, dashboards, and self-service reporting.
-- **Statistical & Predictive Analytics** — exploratory analysis, regression, classification, clustering, risk scoring, time-series forecasting, and model evaluation.
+- **Statistical & Predictive Analytics** — exploratory analysis, regression, classification, clustering, risk scoring, time-series forecasting, gradient boosting, and rigorous model evaluation.
+- **Deep Learning & Model Explainability** — PyTorch/TensorFlow, transfer learning, SHAP, and model audits that hold up under scrutiny, not just accuracy on a leaderboard.
+- **Responsible & Algorithmic Fairness** — subgroup error-rate analysis, statistical significance testing, disparate-impact auditing, and Fairlearn-based bias mitigation.
 - **Experimentation & Causal Thinking** — A/B testing, econometrics, causal inference, and careful separation of association from impact.
-- **Big Data, NLP & Applied AI** — Spark and Databricks workflows, recommendation systems, LLM-enabled analytics, explainability, privacy, and responsible AI.
+- **Big Data, NLP & Applied AI** — Spark and Databricks workflows, LLM-driven agents with structured, auditable outputs, recommendation systems, and privacy-aware design.
 
 ---
 
@@ -136,9 +138,10 @@ Public repositories organized by analytical domain — every project links out t
 ## Toolkit
 
 - **Analysis:** `Python` `SQL` `R` `Excel` · regression · clustering · experimentation · causal inference · time series · geospatial analytics
-- **Data & Platforms:** `Spark` `Databricks` `Snowflake` · data warehousing · ETL · data quality and governance
-- **BI & Communication:** `Tableau` `Power BI` `Plotly` · KPI design · executive reporting · data storytelling
-- **AI & Delivery:** NLP · LLM workflows · explainability · responsible AI · `AWS` `Azure` `Git`
+- **Machine Learning:** `scikit-learn` `XGBoost` `PyTorch` `TensorFlow/Keras` · `SHAP` `Fairlearn` · GridSearchCV/cross-validation · threshold and cost-sensitive decisioning
+- **Data & Platforms:** `Spark` `Databricks` `Snowflake` `DuckDB` · data warehousing · ETL · data quality and governance
+- **BI & Communication:** `Tableau` `Power BI` `Plotly` `Streamlit` · KPI design · executive reporting · data storytelling
+- **AI & Delivery:** NLP · LLM agent design · explainability · responsible AI · `AWS` `Azure` `Git` `Docker`
 
 ## Currently
 
