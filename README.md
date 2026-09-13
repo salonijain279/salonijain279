@@ -174,7 +174,7 @@ Public repositories organized by analytical domain — every project links out t
 |---|---|
 | **[HeatMap Hackathon: Burn-Care Referral Networks](https://github.com/salonijain279/HeatMap-Hackathon)** | Mapping geographic gaps and referral bottlenecks across 635 US trauma/burn-care hospitals using structural NIRD data — no patient records used. |
 | 🥇 **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)** — First Place, Big Data & AI Trends Market 2026 (Carlson School of Management, UMN) | LDA behavioral modeling and feature engineering for a team-built dining recommender; see the Generative AI section above for the full writeup. |
-| **CHRLIS Hackathon** — HR case competition | Workforce/operations case analysis for a fictional company. Team submission; not yet published individually. |
+| 🥈 **CHRLIS Hackathon** — 2nd Place, HR case competition | Workforce/operations case analysis for a fictional company. Team submission; not yet published individually. |
 | **AGI Hackathon (Celonis)** | Process-mining case competition on travel & sustainability data. Deck-based deliverable; no code to publish. |
 | **[Responsible AI: Homebuyer Coach](https://github.com/salonijain279/Responsible-AI-Homebuyer-Coach)** | Product strategy, governance, and evaluation framework for a first-time homebuyer AI coach. |
 
