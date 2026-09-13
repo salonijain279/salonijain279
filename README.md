@@ -22,6 +22,14 @@
 
 ---
 
+## About me
+
+*What should we actually do differently because of this?* — that's the question sitting underneath every project on this page, and it's rarely the modeling that answers it. Usually it's a metric nobody agreed on, a data quality issue nobody flagged, or a result nobody could explain to the person who has to act on it. Chasing that question is what 5+ years in analytics, consulting, and operations has actually looked like: people analytics, ERP implementations, data governance, and workforce, transportation, manufacturing, insurance, financial, and consumer-behavior data, moving constantly between the technical work and the business reason it existed.
+
+I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management as an AI in Business Merit Scholar, which pushed that same instinct into statistics and econometrics, causal inference, big data, time-series forecasting, and responsible and generative AI. The projects below are where I've been testing it since.
+
+---
+
 ## ✨ Featured Projects
 
 <table>
@@ -64,14 +72,6 @@ An independent replication of a deep-vs-shallow-network theory result, paired wi
 </table>
 
 ---
-
-## About me
-
-I'm a data analytics professional with 5+ years of experience across analytics, consulting, and operations. I work across the analytics lifecycle: understanding the business question, building reliable data foundations, exploring patterns, developing models, and translating results into decisions people can use.
-
-My experience spans people analytics, data quality and governance, business intelligence, workflow automation, ERP implementation, and operational decision support. Along the way, I have worked with workforce, transportation, manufacturing, insurance, financial, and consumer-behavior data—moving between technical analysis and the business context behind it.
-
-I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management as an AI in Business Merit Scholar. The program broadened my practice across statistics and econometrics, programming and data management, exploratory and predictive analytics, big data, causal inference, time-series forecasting, marketing analytics, product development, and responsible and generative AI.
 
 ## 🔍 Analytics breadth
 
@@ -176,11 +176,13 @@ Public repositories organized by analytical domain — every project links out t
 
 ---
 
-## How I work
+## ✅ My edge: verified, not just claimed
 
-- **Understand the problem before choosing the method.** The right output might be a query, dashboard, experiment, model, or process change.
-- **Build from reliable foundations.** Clear definitions, reproducible workflows, and visible assumptions make analysis easier to trust and reuse.
-- **Connect technical work to business context.** I enjoy making the same evidence useful to analysts, operators, and decision-makers.
+Most portfolios show the finished result. This one shows the checking work too — because a number nobody can reproduce isn't a result, it's a guess with a decimal point.
+
+- **I rerun what I build.** Every project on this page was executed end to end before it went up, not just written. A few had real bugs I only found by actually running them — a schema conflict here, a comparison-window off-by-one there. The fixes are in the commit history, not hidden.
+- **I say what a result doesn't prove.** Every README carries an honest Limitations section — not boilerplate, an actual account of where the finding stops generalizing. Pretending the edges don't exist doesn't make them disappear; it just moves the surprise to whoever trusts the number later.
+- **I separate "it looked good once" from "it holds up."** Chronological train/test splits instead of random ones, statistical significance tests on group differences, held-out evaluation — the standard is whether a result survives someone else poking at it, not whether it looked good on the first run.
 
 ## Toolkit
 
