@@ -24,9 +24,9 @@
 
 ## About me
 
-*What should we actually do differently because of this?* — that's the question sitting underneath every project on this page, and it's rarely the modeling that answers it. Usually it's a metric nobody agreed on, a data quality issue nobody flagged, or a result nobody could explain to the person who has to act on it. Chasing that question is what 5+ years in analytics, consulting, and operations has actually looked like: people analytics, ERP implementations, data governance, and workforce, transportation, manufacturing, insurance, financial, and consumer-behavior data, moving constantly between the technical work and the business reason it existed.
+I'm a data analytics professional with 5+ years of experience across analytics, consulting, and operations. Most of that work comes down to the same question: what should change, in practice, because of this analysis — not just what the numbers say. That's meant working through people analytics, ERP implementations, data governance, and workforce, transportation, manufacturing, insurance, financial, and consumer-behavior data, and staying close to both the technical work and the business reason it existed.
 
-I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management as an AI in Business Merit Scholar, which pushed that same instinct into statistics and econometrics, causal inference, big data, time-series forecasting, and responsible and generative AI. The projects below are where I've been testing it since.
+I recently completed my MS in Business Analytics at the University of Minnesota's Carlson School of Management as an AI in Business Merit Scholar, covering statistics and econometrics, causal inference, big data, time-series forecasting, and responsible and generative AI. The projects below are where I've been applying it since.
 
 ---
 
@@ -176,13 +176,11 @@ Public repositories organized by analytical domain — every project links out t
 
 ---
 
-## ✅ My edge: verified, not just claimed
+## How I work
 
-Most portfolios show the finished result. This one shows the checking work too — because a number nobody can reproduce isn't a result, it's a guess with a decimal point.
-
-- **I rerun what I build.** Every project on this page was executed end to end before it went up, not just written. A few had real bugs I only found by actually running them — a schema conflict here, a comparison-window off-by-one there. The fixes are in the commit history, not hidden.
-- **I say what a result doesn't prove.** Every README carries an honest Limitations section — not boilerplate, an actual account of where the finding stops generalizing. Pretending the edges don't exist doesn't make them disappear; it just moves the surprise to whoever trusts the number later.
-- **I separate "it looked good once" from "it holds up."** Chronological train/test splits instead of random ones, statistical significance tests on group differences, held-out evaluation — the standard is whether a result survives someone else poking at it, not whether it looked good on the first run.
+- **I run what I build.** Every project here was executed end to end, not just written — issues found along the way (a schema conflict, a comparison-window bug) were fixed and are visible in the commit history rather than smoothed over.
+- **I document limitations, not just results.** Each README includes what the finding doesn't cover and where it stops generalizing, so the result is usable rather than just impressive.
+- **I validate before I report.** Chronological train/test splits, significance testing on group differences, and held-out evaluation — checking that a result holds up, not just that it looked good once.
 
 ## Toolkit
 
