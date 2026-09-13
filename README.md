@@ -82,7 +82,7 @@ Public repositories organized by analytical domain — every project links out t
 
 | Repository | What it demonstrates |
 |---|---|
-| **[Spark Data Engineering Casebook](https://github.com/salonijain279/Spark-Data-Engineering-Casebook)** | Rerun-safe PySpark pipelines for semi-structured Yelp data, Wikipedia clickstream flows, and airline route metrics. |
+| **[Spark ETL & Data Engineering Casebook](https://github.com/salonijain279/Spark-Data-Engineering-Casebook)** | Rerun-safe bronze-to-silver ETL pipelines — schema design, join strategy, idempotent Parquet output — across semi-structured records, clickstream flows, and route metrics. |
 | **[Distributed Machine Learning with PySpark](https://github.com/salonijain279/Distributed-Machine-Learning-with-PySpark)** | Spark ML pipelines for classification, regression, feature engineering, and cross-validated model selection. |
 | **[Real-Time Analytics with Spark Streaming](https://github.com/salonijain279/Real-Time-Analytics-with-Spark-Streaming)** | File-based micro-batches, streaming text signals, and watermark-bounded IoT event windows. |
 | **[MLflow & Containerized Model Serving](https://github.com/salonijain279/MLflow-and-Containerized-Model-Serving)** | Experiment tracking, reproducible training, typed FastAPI inference, and Docker packaging. |
@@ -102,14 +102,19 @@ Public repositories organized by analytical domain — every project links out t
 | **[Wholesale Customer Segmentation](https://github.com/salonijain279/Wholesale-Customer-Segmentation)** | K-means vs. Ward hierarchical clustering on wholesale purchasing behavior, selected by silhouette width. |
 | **[Education Testing Disparity Analysis](https://github.com/salonijain279/Education-Testing-Disparity-Analysis)** | Comparing testing-outcome disparities and K-Means segments on synthetic education data. |
 
-### 📈 Business, Product & Marketing Analytics
+### 📈 Marketing & Consumer Analytics
 
 | Repository | What it demonstrates |
 |---|---|
-| **[iPhone Conjoint Product Design](https://github.com/salonijain279/iPhone-Conjoint-Product-Design)** | Aggregate conjoint scenario analysis for price, storage, and color trade-offs. |
-| **[Athletic Shoe Brand Positioning](https://github.com/salonijain279/Athletic-Shoe-Brand-Positioning)** | Perceptual mapping of athletic shoe brands from aggregate similarity and attribute-distance data. |
-| **[Chewy Product Discovery Strategy](https://github.com/salonijain279/Chewy-Product-Discovery-Strategy)** | Customer research and product strategy for reducing choice overload with transparent recommendations. |
-| **[Salesforce Business Assessment](https://github.com/salonijain279/Salesforce-Business-Assessment)** | Business assessment connecting strategy, financials, marketing, operations, and analytics. |
+| **[iPhone Conjoint Marketing Analysis](https://github.com/salonijain279/iPhone-Conjoint-Product-Design)** | Conjoint-based pricing and feature trade-off marketing analysis — price, storage, and color scenario modeling. |
+| **[Athletic Shoe Brand Positioning](https://github.com/salonijain279/Athletic-Shoe-Brand-Positioning)** | Perceptual mapping for brand-positioning strategy — aggregate similarity and attribute-distance marketing analysis. |
+| **[Chewy Customer Discovery & Marketing Strategy](https://github.com/salonijain279/Chewy-Product-Discovery-Strategy)** | Customer research and marketing strategy for reducing choice overload with transparent recommendations. |
+| **[Salesforce Go-to-Market & Business Assessment](https://github.com/salonijain279/Salesforce-Business-Assessment)** | 4P/5C marketing analysis connected to strategy, financials, and operations in one company assessment. |
+
+### 🚚 Operational & Geospatial Analytics
+
+| Repository | What it demonstrates |
+|---|---|
 | **[GPS Route Reliability Monitoring](https://github.com/salonijain279/GPS-Route-Reliability-Monitoring)** | Geospatial GPS reliability analysis with Haversine geofencing, spatial anomaly detection, and device-health scoring. |
 
 ### 🏆 Hackathons & Applied Case Studies
