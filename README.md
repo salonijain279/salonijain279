@@ -34,31 +34,93 @@ I recently completed my MS in Business Analytics at the University of Minnesota'
 - **Experimentation & Causal Thinking** — A/B testing, econometrics, causal inference, and careful separation of association from impact.
 - **Big Data, NLP & Applied AI** — Spark and Databricks workflows, recommendation systems, LLM-enabled analytics, explainability, privacy, and responsible AI.
 
-## 📂 Selected work
+---
 
-A selection of work spanning data products, predictive modelling, geospatial analytics, NLP, big data, time series, and responsible AI:
+## 📂 Project Directory
 
-| Project | Business question | Proof in the build |
-|---|---|---|
-| **[InsightForge](https://github.com/salonijain279/InsightForge)**<br>Python · Streamlit · LLMs | Can an AI analyst show its work instead of just sounding right? | Routes questions across EDA, prediction, visualization, and guarded causal workflows; executes Python first, then grounds the explanation in recorded results. Includes AST-gated code execution, trust cards, regression tests, and an evaluation suite. |
-| **[Santander Customer Satisfaction](https://github.com/salonijain279/santander-customer-satisfaction)**<br>Python · Gradient Boosting · Optuna | Who is likely to be dissatisfied when only 4% of customers are? | Built on 76K records with shared five-fold validation, advanced feature engineering, Optuna tuning, and a five-model Nelder–Mead blend; reached **0.82745 private-leaderboard ROC-AUC**. |
-| **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)**<br>PySpark · LDA · Databricks | Can recommendations reflect behavior—not just proximity? | Led LDA behavioral modelling and feature engineering; the Philadelphia build used 261K high-quality reviews to profile **20,017 user personas** and **1,962 restaurants** with sentiment and Jensen–Shannon similarity. |
-| **[Competitor Bidding Analytics](https://github.com/salonijain279/Competitor-Bidding-Analytics)**<br>Python · pandas · Tableau-ready metrics | Which competitors are frequent, which are effective, and where might losses be recoverable? | Implements bidder normalization, co-bid overlap, Win Pressure Index, impact scoring, relative win/loss margins, and segment-ready outputs. Client data and results from the original engagement remain private. |
-| **[GPS Route Reliability Monitoring](https://github.com/salonijain279/GPS-Route-Reliability-Monitoring)**<br>Python · pandas · NumPy · Haversine geofencing | When a route looks incomplete, is the operation underperforming—or is the GPS record unreliable? | Evaluates 60 controlled synthetic trips using provider-calibrated coverage, time-gap and frozen-device checks, vectorized spatial distance, impossible-speed detection, stop geofences, route order, and recurring device-health diagnostics. |
-| **[VIX Volatility Forecasting](https://github.com/salonijain279/vix-volatility-forecasting)**<br>R · ARIMA · XGBoost | Which model is more useful for short-horizon market-risk monitoring? | Compared ARIMA and recursive XGBoost forecasts on 8,685 daily observations. ARIMA achieved **0.4165 test RMSE**, approximately **9.8% lower** than the XGBoost challenger on the 10-day holdout. |
-| **[Interpretable Bankruptcy Risk](https://github.com/salonijain279/interpretable-bankruptcy-risk)**<br>Python · Random Forest · SHAP | Can a risk model remain useful without becoming a black box? | Compared four global-interpretation methods across 24 accounting ratios. Random Forest reached **0.852 test accuracy**, while the two SHAP approaches produced strongly consistent rankings. |
+Public repositories organized by analytical domain — every project links out to its own README with full methodology and results.
 
-👉 **[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
+### 🎯 Predictive Analytics & Statistical Modeling
 
-### Big Data, Cloud & MLOps
+| Repository | What it demonstrates |
+|---|---|
+| **[Predictive Model Benchmarking](https://github.com/salonijain279/predictive-model-benchmarking)** | Two studies benchmarking 6-7 classical ML algorithms each via GridSearchCV + cross-validation — bank-marketing classification (XGBoost, ROC-AUC 0.934) and real-estate regression (Random Forest, R² 0.828). |
+| **[Santander Customer Satisfaction](https://github.com/salonijain279/santander-customer-satisfaction)** | Identifying dissatisfied customers from 76K anonymized, sparse, ~24:1-imbalanced records; shared five-fold validation, Optuna tuning, five-model blend reaching 0.827 private-leaderboard ROC-AUC. |
+| **[Interpretable Bankruptcy Risk](https://github.com/salonijain279/interpretable-bankruptcy-risk)** | Random Forest bankruptcy classifier (0.852 test accuracy) audited with SHAP and three other global-interpretation methods for consistency. |
+| **[VIX Volatility Forecasting](https://github.com/salonijain279/vix-volatility-forecasting)** | ARIMA vs. recursive XGBoost on 8,685 daily VIX observations — ARIMA wins by ~9.8% test RMSE on a 10-day holdout. |
+
+### 🧠 Deep Learning
+
+| Repository | What it demonstrates |
+|---|---|
+| **[Deep Learning: Compositional Functions & Transfer Learning](https://github.com/salonijain279/deep-learning-image-classification)** | Independent PyTorch replication of a shallow-vs-deep-network theory result, plus EfficientNetB4 transfer learning for image classification (99.34% validation accuracy) benchmarked against a VGG16 baseline. |
+
+### ⚖️ Responsible AI & Algorithmic Fairness
+
+| Repository | What it demonstrates |
+|---|---|
+| **[Algorithmic Fairness Audit](https://github.com/salonijain279/algorithmic-fairness-audit)** | Recidivism risk-scoring bias audit: statistically significant error-rate disparity (z=11.4, p<0.0001), independently reproducing ProPublica's COMPAS finding, plus a Fairlearn mitigation that cuts the gap 72%. |
+| **[Responsible AI: Homebuyer Coach](https://github.com/salonijain279/Responsible-AI-Homebuyer-Coach)** | Product strategy, governance, and evaluation framework for a first-time homebuyer AI coach. |
+
+### 🛡️ Fraud & Risk Analytics
+
+| Repository | What it demonstrates |
+|---|---|
+| **[Payments Fraud Investigation Engine](https://github.com/salonijain279/payments-fraud-investigation)** | End-to-end fraud risk scoring on IEEE-CIS transaction data: XGBoost + SHAP reason codes, threshold and cost-sensitive decisioning, and a 4-page Streamlit investigation console. |
+
+### 🔬 Causal Inference & Experimentation
+
+| Repository | What it demonstrates |
+|---|---|
+| **[Quasi-Experimental Causal Inference](https://github.com/salonijain279/Quasi-Experimental-Causal-Inference)** | Applied R studies using propensity-score matching, synthetic control, and regression discontinuity. |
+| **[Sponsored Search Incrementality Analysis](https://github.com/salonijain279/Sponsored-Search-Incrementality-Analysis)** | Difference-in-Differences analysis of branded-search incrementality, organic substitution, and ROI. |
+| **[Randomized Experiment Impact Analysis](https://github.com/salonijain279/Randomized-Experiment-Impact-Analysis)** | R analyses of randomized interventions, treatment effects, heterogeneous response, and causal assumptions. |
+| **[Digital Advertising Channel Optimization](https://github.com/salonijain279/Digital-Advertising-Channel-Optimization)** | Randomized display-ad experiment analysis for incremental lift, frequency response, and channel allocation. |
+| **[Competitor Bidding Analytics](https://github.com/salonijain279/Competitor-Bidding-Analytics)** | Bidder normalization, co-bid overlap, Win Pressure Index, and impact scoring for sealed-bid markets (client data kept private). |
+
+### ☁️ Big Data, Cloud & MLOps
 
 | Repository | What it demonstrates |
 |---|---|
 | **[Spark Data Engineering Casebook](https://github.com/salonijain279/Spark-Data-Engineering-Casebook)** | Rerun-safe PySpark pipelines for semi-structured Yelp data, Wikipedia clickstream flows, and airline route metrics. |
-| **[Distributed Machine Learning with PySpark](https://github.com/salonijain279/Distributed-Machine-Learning-with-PySpark)** | Spark ML pipelines for classification, regression, feature engineering, evaluation, and cross-validated model selection. |
+| **[Distributed Machine Learning with PySpark](https://github.com/salonijain279/Distributed-Machine-Learning-with-PySpark)** | Spark ML pipelines for classification, regression, feature engineering, and cross-validated model selection. |
 | **[Real-Time Analytics with Spark Streaming](https://github.com/salonijain279/Real-Time-Analytics-with-Spark-Streaming)** | File-based micro-batches, streaming text signals, and watermark-bounded IoT event windows. |
 | **[MLflow & Containerized Model Serving](https://github.com/salonijain279/MLflow-and-Containerized-Model-Serving)** | Experiment tracking, reproducible training, typed FastAPI inference, and Docker packaging. |
-| **[Databricks AI Gateway Chatbot](https://github.com/salonijain279/Databricks-AI-Gateway-Chatbot)** | Streamlit chatbot with multi-turn history and a Databricks-hosted language model. |
+
+### 🤖 Generative AI, NLP & Recommendation Systems
+
+| Repository | What it demonstrates |
+|---|---|
+| **[InsightForge](https://github.com/salonijain279/InsightForge)** | Evidence-grounded automated data scientist — a Streamlit app that routes plain-English questions to real EDA, predictive modeling, and guarded causal workflows, executing code first and grounding explanations in recorded results. |
+| **[Databricks AI Gateway Chatbot](https://github.com/salonijain279/Databricks-AI-Gateway-Chatbot)** | Streamlit chatbot with multi-turn history backed by a Databricks-hosted language model. |
+| **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)** | Team-built dining recommender modeling *how* people like to dine, not just distance/cuisine. My role: LDA behavioral modeling and feature engineering, profiling 20,017 user personas and 1,962 restaurants from 261K reviews. |
+
+### 📊 Exploratory Analysis & Customer Segmentation
+
+| Repository | What it demonstrates |
+|---|---|
+| **[Wholesale Customer Segmentation](https://github.com/salonijain279/Wholesale-Customer-Segmentation)** | K-means vs. Ward hierarchical clustering on wholesale purchasing behavior, selected by silhouette width. |
+| **[Education Testing Disparity Analysis](https://github.com/salonijain279/Education-Testing-Disparity-Analysis)** | Comparing testing-outcome disparities and K-Means segments on synthetic education data. |
+
+### 📈 Business, Product & Marketing Analytics
+
+| Repository | What it demonstrates |
+|---|---|
+| **[iPhone Conjoint Product Design](https://github.com/salonijain279/iPhone-Conjoint-Product-Design)** | Aggregate conjoint scenario analysis for price, storage, and color trade-offs. |
+| **[Athletic Shoe Brand Positioning](https://github.com/salonijain279/Athletic-Shoe-Brand-Positioning)** | Perceptual mapping of athletic shoe brands from aggregate similarity and attribute-distance data. |
+| **[Chewy Product Discovery Strategy](https://github.com/salonijain279/Chewy-Product-Discovery-Strategy)** | Customer research and product strategy for reducing choice overload with transparent recommendations. |
+| **[Salesforce Business Assessment](https://github.com/salonijain279/Salesforce-Business-Assessment)** | Business assessment connecting strategy, financials, marketing, operations, and analytics. |
+| **[GPS Route Reliability Monitoring](https://github.com/salonijain279/GPS-Route-Reliability-Monitoring)** | Geospatial GPS reliability analysis with Haversine geofencing, spatial anomaly detection, and device-health scoring. |
+
+### 🏆 Hackathons & Applied Case Studies
+
+| Repository | What it demonstrates |
+|---|---|
+| **[HeatMap Hackathon: Burn-Care Referral Networks](https://github.com/salonijain279/HeatMap-Hackathon)** | Mapping geographic gaps and referral bottlenecks across 635 US trauma/burn-care hospitals using structural NIRD data — no patient records used. |
+
+👉 **[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
+
+---
 
 ## How I work
 
