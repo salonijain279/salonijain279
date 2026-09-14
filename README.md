@@ -32,49 +32,6 @@ I recently completed my MS in Business Analytics at the University of Minnesota'
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Payments Fraud Investigation Engine](https://github.com/salonijain279/payments-fraud-investigation)**
-<br>SQL · XGBoost · SHAP · Streamlit
-
-End-to-end fraud risk scoring on real transaction data — chronological validation, threshold and cost-sensitive decisioning, SHAP reason codes, and a 4-page investigator console.
-
-</td>
-<td width="50%" valign="top">
-
-**[Algorithmic Fairness Audit](https://github.com/salonijain279/algorithmic-fairness-audit)**
-<br>Python · scikit-learn · Fairlearn · Streamlit
-
-Statistically significant bias audit on recidivism risk-scoring, independently reproducing ProPublica's COMPAS finding, then mitigating it with Fairlearn.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[InsightForge](https://github.com/salonijain279/InsightForge)**
-<br>Python · Streamlit · LLMs
-
-An automated data-scientist app that routes plain-English questions to real EDA, predictive modeling, and guarded causal workflows — executes code first, then explains the actual result.
-
-</td>
-<td width="50%" valign="top">
-
-**[Deep Learning: Network Depth Theory & Transfer Learning](https://github.com/salonijain279/network-depth-theory-and-transfer-learning)**
-<br>PyTorch · TensorFlow/Keras
-
-An independent replication of a deep-vs-shallow-network theory result, paired with EfficientNetB4 transfer learning for image classification.
-
-</td>
-</tr>
-</table>
-
----
-
 ## Analytics breadth
 
 - **Business & Decision Analytics** — framing ambiguous questions, defining useful metrics, and connecting analysis to operational, customer, product, and strategic decisions.
@@ -123,9 +80,9 @@ Public repositories organized by analytical domain — every project links out t
 
 | Repository | What it demonstrates |
 |---|---|
-| **[Quasi-Experimental Causal Inference](https://github.com/salonijain279/Quasi-Experimental-Causal-Inference)** | Applied R studies using propensity-score matching, synthetic control, and regression discontinuity. |
+| **[Program & Policy Impact Evaluation](https://github.com/salonijain279/Quasi-Experimental-Causal-Inference)** | Applied R studies using propensity-score matching, synthetic control, and regression discontinuity. |
 | **[Sponsored Search Incrementality Analysis](https://github.com/salonijain279/Sponsored-Search-Incrementality-Analysis)** | Difference-in-Differences analysis of branded-search incrementality, organic substitution, and ROI. |
-| **[Randomized Experiment Impact Analysis](https://github.com/salonijain279/Randomized-Experiment-Impact-Analysis)** | R analyses of randomized interventions, treatment effects, heterogeneous response, and causal assumptions. |
+| **[A/B Testing & Intervention Impact Studies](https://github.com/salonijain279/Randomized-Experiment-Impact-Analysis)** | R analyses of randomized interventions, treatment effects, heterogeneous response, and causal assumptions. |
 | **[Digital Advertising Channel Optimization](https://github.com/salonijain279/Digital-Advertising-Channel-Optimization)** | Randomized display-ad experiment analysis for incremental lift, frequency response, and channel allocation. |
 | **[Competitor Bidding Analytics](https://github.com/salonijain279/Competitor-Bidding-Analytics)** | Bidder normalization, co-bid overlap, Win Pressure Index, and impact scoring for sealed-bid markets (client data kept private). |
 
