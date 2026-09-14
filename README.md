@@ -32,7 +32,7 @@ I recently completed my MS in Business Analytics at the University of Minnesota'
 
 ---
 
-## ✨ Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ An independent replication of a deep-vs-shallow-network theory result, paired wi
 
 ---
 
-## 🔍 Analytics breadth
+## Analytics breadth
 
 - **Business & Decision Analytics** — framing ambiguous questions, defining useful metrics, and connecting analysis to operational, customer, product, and strategic decisions.
 - **Data Foundations & Business Intelligence** — SQL, ETL, data modelling, warehousing, quality controls, KPI systems, dashboards, and self-service reporting.
@@ -87,11 +87,11 @@ An independent replication of a deep-vs-shallow-network theory result, paired wi
 
 ---
 
-## 📂 Project Directory
+## Project Directory
 
 Public repositories organized by analytical domain — every project links out to its own README with full methodology and results.
 
-### 🎯 Predictive Analytics & Statistical Modeling
+### Predictive Analytics & Statistical Modeling
 
 | Repository | What it demonstrates |
 |---|---|
@@ -100,26 +100,26 @@ Public repositories organized by analytical domain — every project links out t
 | **[Interpretable Bankruptcy Risk](https://github.com/salonijain279/interpretable-bankruptcy-risk)** | Random Forest bankruptcy classifier (0.852 test accuracy) audited with SHAP and three other global-interpretation methods for consistency. |
 | **[VIX Volatility Forecasting](https://github.com/salonijain279/vix-volatility-forecasting)** | ARIMA vs. recursive XGBoost on 8,685 daily VIX observations — ARIMA wins by ~9.8% test RMSE on a 10-day holdout. |
 
-### 🧠 Deep Learning
+### Deep Learning
 
 | Repository | What it demonstrates |
 |---|---|
 | **[Deep Learning: Network Depth Theory & Transfer Learning](https://github.com/salonijain279/network-depth-theory-and-transfer-learning)** | Independent PyTorch replication of a shallow-vs-deep-network theory result, plus EfficientNetB4 transfer learning for image classification (99.34% validation accuracy) benchmarked against a VGG16 baseline. |
 
-### ⚖️ Responsible AI & Algorithmic Fairness
+### Responsible AI & Algorithmic Fairness
 
 | Repository | What it demonstrates |
 |---|---|
 | **[Algorithmic Fairness Audit](https://github.com/salonijain279/algorithmic-fairness-audit)** | Recidivism risk-scoring bias audit: statistically significant error-rate disparity (z=11.4, p<0.0001), independently reproducing ProPublica's COMPAS finding, plus a Fairlearn mitigation that cuts the gap 72%. |
 | **[Responsible AI: Homebuyer Coach](https://github.com/salonijain279/Responsible-AI-Homebuyer-Coach)** | Product strategy, governance, and evaluation framework for a first-time homebuyer AI coach. |
 
-### 🛡️ Fraud & Risk Analytics
+### Fraud & Risk Analytics
 
 | Repository | What it demonstrates |
 |---|---|
 | **[Payments Fraud Investigation Engine](https://github.com/salonijain279/payments-fraud-investigation)** | End-to-end fraud risk scoring on IEEE-CIS transaction data: XGBoost + SHAP reason codes, threshold and cost-sensitive decisioning, and a 4-page Streamlit investigation console. |
 
-### 🔬 Causal Inference & Experimentation
+### Causal Inference & Experimentation
 
 | Repository | What it demonstrates |
 |---|---|
@@ -129,7 +129,7 @@ Public repositories organized by analytical domain — every project links out t
 | **[Digital Advertising Channel Optimization](https://github.com/salonijain279/Digital-Advertising-Channel-Optimization)** | Randomized display-ad experiment analysis for incremental lift, frequency response, and channel allocation. |
 | **[Competitor Bidding Analytics](https://github.com/salonijain279/Competitor-Bidding-Analytics)** | Bidder normalization, co-bid overlap, Win Pressure Index, and impact scoring for sealed-bid markets (client data kept private). |
 
-### ☁️ Big Data, Cloud & MLOps
+### Big Data, Cloud & MLOps
 
 | Repository | What it demonstrates |
 |---|---|
@@ -138,7 +138,7 @@ Public repositories organized by analytical domain — every project links out t
 | **[Real-Time Analytics with Spark Streaming](https://github.com/salonijain279/Real-Time-Analytics-with-Spark-Streaming)** | File-based micro-batches, streaming text signals, and watermark-bounded IoT event windows. |
 | **[MLflow & Containerized Model Serving](https://github.com/salonijain279/MLflow-and-Containerized-Model-Serving)** | Experiment tracking, reproducible training, typed FastAPI inference, and Docker packaging. |
 
-### 🤖 Generative AI, NLP & Recommendation Systems
+### Generative AI, NLP & Recommendation Systems
 
 | Repository | What it demonstrates |
 |---|---|
@@ -146,14 +146,14 @@ Public repositories organized by analytical domain — every project links out t
 | **[Databricks AI Gateway Chatbot](https://github.com/salonijain279/Databricks-AI-Gateway-Chatbot)** | Streamlit chatbot with multi-turn history backed by a Databricks-hosted language model. |
 | 🥇 **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)** — First Place, Big Data & AI Trends Market 2026 | Team-built dining recommender modeling *how* people like to dine, not just distance/cuisine. My role: LDA behavioral modeling and feature engineering, profiling 20,017 user personas and 1,962 restaurants from 261K reviews. |
 
-### 📊 Exploratory Analysis & Customer Segmentation
+### Exploratory Analysis & Customer Segmentation
 
 | Repository | What it demonstrates |
 |---|---|
 | **[Distributor Customer Segmentation](https://github.com/salonijain279/Wholesale-Customer-Segmentation)** | K-means vs. Ward hierarchical clustering on wholesale purchasing behavior, selected by silhouette width. |
 | **[Student Testing Outcomes & Segmentation](https://github.com/salonijain279/Education-Testing-Disparity-Analysis)** | Comparing testing-outcome disparities and K-Means segments on synthetic education data. |
 
-### 📈 Marketing & Consumer Analytics
+### Marketing & Consumer Analytics
 
 | Repository | What it demonstrates |
 |---|---|
@@ -162,23 +162,21 @@ Public repositories organized by analytical domain — every project links out t
 | **[Chewy Customer Experience Strategy](https://github.com/salonijain279/Chewy-Product-Discovery-Strategy)** | Customer research and marketing strategy for reducing choice overload with transparent recommendations. |
 | **[Salesforce Company & Market Assessment](https://github.com/salonijain279/Salesforce-Business-Assessment)** | 4P/5C marketing analysis connected to strategy, financials, and operations in one company assessment. |
 
-### 🚚 Operational & Geospatial Analytics
+### Operational & Geospatial Analytics
 
 | Repository | What it demonstrates |
 |---|---|
 | **[GPS Route Reliability Monitoring](https://github.com/salonijain279/GPS-Route-Reliability-Monitoring)** | Geospatial GPS reliability analysis with Haversine geofencing, spatial anomaly detection, and device-health scoring. |
 
-### 🏆 Extracurriculars
+### Extracurriculars
 
 | Project | What it demonstrates |
 |---|---|
 | **[HeatMap Hackathon: Burn-Care Referral Networks](https://github.com/salonijain279/HeatMap-Hackathon)** | Mapping geographic gaps and referral bottlenecks across 635 US trauma/burn-care hospitals using structural NIRD data — no patient records used. |
-| 🥇 **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)** — First Place, Big Data & AI Trends Market 2026 (Carlson School of Management, UMN) | LDA behavioral modeling and feature engineering for a team-built dining recommender; see the Generative AI section above for the full writeup. |
-| **CHRLIS Hackathon** — HR case competition | Workforce/operations case analysis for a fictional company. Team submission; not yet published individually. |
-| **AGI Hackathon (Celonis)** | Process-mining case competition on travel & sustainability data. Deck-based deliverable; no code to publish. |
-| **[Responsible AI: Homebuyer Coach](https://github.com/salonijain279/Responsible-AI-Homebuyer-Coach)** | Product strategy, governance, and evaluation framework for a first-time homebuyer AI coach. |
 
-👉 **[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
+Also competed in the **CHRLIS Hackathon** (HR case competition, workforce/operations analysis for a fictional company — team submission, not yet published individually) and the **AGI Hackathon** (Celonis-sponsored process-mining case competition on travel & sustainability data — deck-based deliverable, no code to publish).
+
+**[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
 
 ---
 
