@@ -129,10 +129,10 @@ Public repositories organized by analytical domain — every project links out t
 
 | Project | What it demonstrates |
 |---|---|
-| **[HeatMap Hackathon: Burn-Care Referral Networks](https://github.com/salonijain279/HeatMap-Hackathon)** | Mapping geographic gaps and referral bottlenecks across 635 US trauma/burn-care hospitals using structural NIRD data — no patient records used. |
-| **[BrightWave Workplace Safety Crisis](https://github.com/salonijain279/brightwave-workplace-safety-crisis)** | CHRLIS Hackathon (HR case competition) — diagnosed a walkout/safety crisis across 6 locations from swipe and OSHA data. Team: Himanshi Birla, Yang Zhang, Daniel Melnikov, Saloni Jain. |
-| **[A Greener Future for Celonis](https://github.com/salonijain279/celonis-travel-sustainability-hackathon)** | AGI Hackathon 2026 — process-mining case cutting travel cost and carbon emissions together, not as a trade-off. Deck-based (analysis run inside Celonis's own environment). Team: Data Dynamos. |
-| **[Trusted AI Coach for First-Time Homebuyers](https://github.com/salonijain279/pnc-first-time-homebuyer-ai-coach)** | PNC Case Competition — explainable AI product concept for first-time homebuyers. Team UMN: Parul Chaudhary, Bhavisha Chafekar, Saloni Jain, Yehan Wang. |
+| **[HeatMap Hackathon: Burn-Care Referral Networks](https://github.com/salonijain279/HeatMap-Hackathon)** | Traced every referral pathway across 635 US trauma hospitals and found 31.5% sit structurally isolated from any verified burn center — using zero patient records, just the shape of the network itself. |
+| **[BrightWave Workplace Safety Crisis](https://github.com/salonijain279/brightwave-workplace-safety-crisis)** | Traced a 22% same-day walkout rate at one site back to a two-quarter engagement decline, turning a workforce crisis into a data-backed 30-day intervention plan.<br><sub>CHRLIS Hackathon · Himanshi Birla, Yang Zhang, Daniel Melnikov, Saloni Jain</sub> |
+| **[A Greener Future for Celonis](https://github.com/salonijain279/celonis-travel-sustainability-hackathon)** | Found $187M in travel spend and 112.5M kg of CO2 tangled in the same process inefficiencies — so cutting cost and emissions didn't have to be a trade-off.<br><sub>AGI Hackathon 2026 · Team Data Dynamos</sub> |
+| **[Trusted AI Coach for First-Time Homebuyers](https://github.com/salonijain279/pnc-first-time-homebuyer-ai-coach)** | Designed an AI coach that explains its reasoning instead of just handing over a recommendation — aimed at the hidden-cost anxiety that makes first-time buyers distrust generic advice.<br><sub>PNC Case Competition · Parul Chaudhary, Bhavisha Chafekar, Saloni Jain, Yehan Wang</sub> |
 
 **[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
 
