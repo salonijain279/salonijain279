@@ -130,8 +130,9 @@ Public repositories organized by analytical domain — every project links out t
 | Project | What it demonstrates |
 |---|---|
 | **[HeatMap Hackathon: Burn-Care Referral Networks](https://github.com/salonijain279/HeatMap-Hackathon)** | Mapping geographic gaps and referral bottlenecks across 635 US trauma/burn-care hospitals using structural NIRD data — no patient records used. |
-
-Also competed in the **CHRLIS Hackathon** (HR case competition, workforce/operations analysis for a fictional company — team submission, not yet published individually), the **AGI Hackathon** (Celonis-sponsored process-mining case competition on travel & sustainability data — deck-based deliverable, no code to publish), and the **PNC Case Competition** (first-time-homebuyer strategy challenge — slide deck and video presentation, no code to publish).
+| **[BrightWave Workplace Safety Crisis](https://github.com/salonijain279/brightwave-workplace-safety-crisis)** | CHRLIS Hackathon (HR case competition) — diagnosed a walkout/safety crisis across 6 locations from swipe and OSHA data. Team: Himanshi Birla, Yang Zhang, Daniel Melnikov, Saloni Jain. |
+| **[A Greener Future for Celonis](https://github.com/salonijain279/celonis-travel-sustainability-hackathon)** | AGI Hackathon 2026 — process-mining case cutting travel cost and carbon emissions together, not as a trade-off. Deck-based (analysis run inside Celonis's own environment). Team: Data Dynamos. |
+| **[Trusted AI Coach for First-Time Homebuyers](https://github.com/salonijain279/pnc-first-time-homebuyer-ai-coach)** | PNC Case Competition — explainable AI product concept for first-time homebuyers. Team UMN: Parul Chaudhary, Bhavisha Chafekar, Saloni Jain, Yehan Wang. |
 
 **[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
 
