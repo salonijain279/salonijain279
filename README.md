@@ -131,7 +131,7 @@ Public repositories organized by analytical domain — every project links out t
 |---|---|
 | **[HeatMap Hackathon: Burn-Care Referral Networks](https://github.com/salonijain279/HeatMap-Hackathon)** | Mapping geographic gaps and referral bottlenecks across 635 US trauma/burn-care hospitals using structural NIRD data — no patient records used. |
 
-Also competed in the **CHRLIS Hackathon** (HR case competition, workforce/operations analysis for a fictional company — team submission, not yet published individually) and the **AGI Hackathon** (Celonis-sponsored process-mining case competition on travel & sustainability data — deck-based deliverable, no code to publish).
+Also competed in the **CHRLIS Hackathon** (HR case competition, workforce/operations analysis for a fictional company — team submission, not yet published individually), the **AGI Hackathon** (Celonis-sponsored process-mining case competition on travel & sustainability data — deck-based deliverable, no code to publish), and the **PNC Case Competition** (first-time-homebuyer strategy challenge — slide deck and video presentation, no code to publish).
 
 **[Explore all repositories](https://github.com/salonijain279?tab=repositories)**
 
