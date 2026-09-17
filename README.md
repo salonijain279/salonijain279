@@ -48,6 +48,13 @@ I recently completed my MS in Business Analytics at the University of Minnesota'
 
 Public repositories organized by analytical domain — every project links out to its own README with full methodology and results.
 
+### Exploratory Data Analysis & Segmentation
+
+| Repository | What it demonstrates |
+|---|---|
+| **[Distributor Customer Segmentation](https://github.com/salonijain279/Wholesale-Customer-Segmentation)** | Ran wholesale purchasing behavior through two different clustering lenses, K-means and Ward hierarchical, and let silhouette width settle which segmentation actually held up. |
+| **[Student Testing Outcomes & Segmentation](https://github.com/salonijain279/Education-Testing-Disparity-Analysis)** | Segmented synthetic student-testing data with K-Means to see where outcome disparities cluster — a first pass at where an intervention would actually move the needle. |
+
 ### Predictive Analytics & Statistical Modeling
 
 | Repository | What it demonstrates |
@@ -57,24 +64,13 @@ Public repositories organized by analytical domain — every project links out t
 | **[Interpretable Bankruptcy Risk](https://github.com/salonijain279/interpretable-bankruptcy-risk)** | Built a bankruptcy classifier that hits 0.852 accuracy, then interrogated its own reasoning four different ways (SHAP plus three other interpretation methods) to make sure the accuracy wasn't hiding a shortcut. |
 | **[VIX Volatility Forecasting](https://github.com/salonijain279/vix-volatility-forecasting)** | Pitted classical ARIMA against recursive XGBoost on 8,685 days of VIX data — the simpler model won by 9.8% lower test RMSE, proof more complex isn't automatically more accurate. |
 
-### Deep Learning
+### Generative AI, NLP & Recommendation Systems
 
 | Repository | What it demonstrates |
 |---|---|
-| **[Deep Learning: Network Depth Theory & Transfer Learning](https://github.com/salonijain279/network-depth-theory-and-transfer-learning)** | Replicated a shallow-vs-deep-network theory result from scratch in PyTorch, then put it to work: EfficientNetB4 transfer learning hit 99.34% validation accuracy, well past a VGG16 baseline. |
-
-### Responsible AI & Algorithmic Fairness
-
-| Repository | What it demonstrates |
-|---|---|
-| **[Algorithmic Fairness Audit](https://github.com/salonijain279/algorithmic-fairness-audit)** | Independently reproduced ProPublica's COMPAS bias finding in a recidivism risk-scoring model (z=11.4, p<0.0001), then built a Fairlearn mitigation that closed 72% of the gap. |
-| **[Responsible AI: Homebuyer Coach](https://github.com/salonijain279/Responsible-AI-Homebuyer-Coach)** | Designed the governance layer most AI products skip: a strategy and evaluation framework deciding what a first-time-homebuyer AI coach is allowed to say, and how you'd know if it started drifting. |
-
-### Fraud & Risk Analytics
-
-| Repository | What it demonstrates |
-|---|---|
-| **[Payments Fraud Investigation Engine](https://github.com/salonijain279/payments-fraud-investigation)** | Built a fraud engine that doesn't just score a transaction — it explains why via SHAP reason codes, decisions cost-sensitively rather than just accuracy-sensitively, and hands an investigator a 4-page Streamlit console to act on it. |
+| **[InsightForge](https://github.com/salonijain279/InsightForge)** | An AI that runs the analysis before it explains it — routes plain-English questions to real EDA, predictive modeling, or guarded causal workflows, executes actual code, and only then writes up what happened. |
+| 🥇 **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)** — First Place, Big Data & AI Trends Market 2026 | Modeled *how* people actually like to dine, not just distance and cuisine tags, by mining 261K reviews into 20,017 behavioral personas across 1,962 restaurants. My role: the LDA modeling and feature engineering underneath it. |
+| **[Databricks AI Gateway Chatbot](https://github.com/salonijain279/Databricks-AI-Gateway-Chatbot)** | A chatbot that remembers the conversation, not just the last message — built on Streamlit and backed by a Databricks-hosted language model. |
 
 ### Causal Inference & Experimentation
 
@@ -86,6 +82,28 @@ Public repositories organized by analytical domain — every project links out t
 | **[Digital Advertising Channel Optimization](https://github.com/salonijain279/Digital-Advertising-Channel-Optimization)** | Randomized display-ad experiment measuring the lift that wouldn't have happened anyway, plus how response changes with ad frequency, to inform where budget should actually go. |
 | **[Competitor Bidding Analytics](https://github.com/salonijain279/Competitor-Bidding-Analytics)** | Built a Win Pressure Index from raw sealed-bid data — normalizing bidder identities and mapping co-bid overlap to score how much real competitive pressure was in each auction. (Client data kept private.) |
 
+### Marketing Analytics & Growth Strategy
+
+| Repository | What it demonstrates |
+|---|---|
+| **[iPhone Pricing & Feature Optimization](https://github.com/salonijain279/iPhone-Conjoint-Product-Design)** | Conjoint analysis of what people actually trade off when buying a phone — modeled price, storage, and color scenarios to find the feature mix that wins. |
+| **[Athletic Footwear Competitive Positioning](https://github.com/salonijain279/Athletic-Shoe-Brand-Positioning)** | Built a perceptual map of the athletic footwear market from aggregate similarity and attribute-distance data — the picture a brand-positioning deck usually just asserts. |
+| **[Chewy Match: Product Discovery Optimization](https://github.com/salonijain279/Chewy-Product-Discovery-Strategy)** | 15 real interviews and surveys distilled into 8 concrete product gaps and a scored concept — customer research into why more choice was making shoppers less confident, not more. |
+| **[Salesforce Growth & Financial Strategy Analysis](https://github.com/salonijain279/Salesforce-Business-Assessment)** | Tied $37.9B in revenue and $13.1B in operating cash flow directly to strategy — a company assessment that refuses to treat marketing, financials, and operations as separate stories. |
+
+### Fraud & Risk Analytics
+
+| Repository | What it demonstrates |
+|---|---|
+| **[Payments Fraud Investigation Engine](https://github.com/salonijain279/payments-fraud-investigation)** | Built a fraud engine that doesn't just score a transaction — it explains why via SHAP reason codes, decisions cost-sensitively rather than just accuracy-sensitively, and hands an investigator a 4-page Streamlit console to act on it. |
+
+### Responsible AI & Algorithmic Fairness
+
+| Repository | What it demonstrates |
+|---|---|
+| **[Algorithmic Fairness Audit](https://github.com/salonijain279/algorithmic-fairness-audit)** | Independently reproduced ProPublica's COMPAS bias finding in a recidivism risk-scoring model (z=11.4, p<0.0001), then built a Fairlearn mitigation that closed 72% of the gap. |
+| **[Responsible AI: Homebuyer Coach](https://github.com/salonijain279/Responsible-AI-Homebuyer-Coach)** | Designed the governance layer most AI products skip: a strategy and evaluation framework deciding what a first-time-homebuyer AI coach is allowed to say, and how you'd know if it started drifting. |
+
 ### Big Data, Cloud & MLOps
 
 | Repository | What it demonstrates |
@@ -95,29 +113,11 @@ Public repositories organized by analytical domain — every project links out t
 | **[Real-Time Analytics with Spark Streaming](https://github.com/salonijain279/Real-Time-Analytics-with-Spark-Streaming)** | Streaming pipelines that don't wait for a nightly batch job — file-based micro-batches, live text-signal processing, and watermark-bounded windows for IoT events arriving out of order. |
 | **[MLflow & Containerized Model Serving](https://github.com/salonijain279/MLflow-and-Containerized-Model-Serving)** | Closed the loop from experiment to production: MLflow-tracked, reproducible training handed off to a typed FastAPI inference service, packaged in Docker so it runs the same everywhere. |
 
-### Generative AI, NLP & Recommendation Systems
+### Deep Learning
 
 | Repository | What it demonstrates |
 |---|---|
-| **[InsightForge](https://github.com/salonijain279/InsightForge)** | An AI that runs the analysis before it explains it — routes plain-English questions to real EDA, predictive modeling, or guarded causal workflows, executes actual code, and only then writes up what happened. |
-| **[Databricks AI Gateway Chatbot](https://github.com/salonijain279/Databricks-AI-Gateway-Chatbot)** | A chatbot that remembers the conversation, not just the last message — built on Streamlit and backed by a Databricks-hosted language model. |
-| 🥇 **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)** — First Place, Big Data & AI Trends Market 2026 | Modeled *how* people actually like to dine, not just distance and cuisine tags, by mining 261K reviews into 20,017 behavioral personas across 1,962 restaurants. My role: the LDA modeling and feature engineering underneath it. |
-
-### Exploratory Analysis & Customer Segmentation
-
-| Repository | What it demonstrates |
-|---|---|
-| **[Distributor Customer Segmentation](https://github.com/salonijain279/Wholesale-Customer-Segmentation)** | Ran wholesale purchasing behavior through two different clustering lenses, K-means and Ward hierarchical, and let silhouette width settle which segmentation actually held up. |
-| **[Student Testing Outcomes & Segmentation](https://github.com/salonijain279/Education-Testing-Disparity-Analysis)** | Segmented synthetic student-testing data with K-Means to see where outcome disparities cluster — a first pass at where an intervention would actually move the needle. |
-
-### Marketing & Consumer Analytics
-
-| Repository | What it demonstrates |
-|---|---|
-| **[iPhone Pricing & Feature Strategy](https://github.com/salonijain279/iPhone-Conjoint-Product-Design)** | Conjoint analysis of what people actually trade off when buying a phone — modeled price, storage, and color scenarios to find the feature mix that wins. |
-| **[Athletic Footwear Brand Strategy](https://github.com/salonijain279/Athletic-Shoe-Brand-Positioning)** | Built a perceptual map of the athletic footwear market from aggregate similarity and attribute-distance data — the picture a brand-positioning deck usually just asserts. |
-| **[Chewy Customer Experience Strategy](https://github.com/salonijain279/Chewy-Product-Discovery-Strategy)** | Customer research into why more product choice was making shoppers less confident, not more — and a strategy for cutting overload with transparent, not just personalized, recommendations. |
-| **[Salesforce Company & Market Assessment](https://github.com/salonijain279/Salesforce-Business-Assessment)** | A company assessment that refuses to treat marketing, financials, and operations as separate stories — one 4P/5C analysis tying all three to the same strategy. |
+| **[Deep Learning: Network Depth Theory & Transfer Learning](https://github.com/salonijain279/network-depth-theory-and-transfer-learning)** | Replicated a shallow-vs-deep-network theory result from scratch in PyTorch, then put it to work: EfficientNetB4 transfer learning hit 99.34% validation accuracy, well past a VGG16 baseline. |
 
 ### Operational & Geospatial Analytics
 
