@@ -53,13 +53,13 @@ Public repositories organized by analytical domain — every project links out t
 | Repository | What it demonstrates |
 |---|---|
 | **[Distributor Customer Segmentation](https://github.com/salonijain279/Wholesale-Customer-Segmentation)** | Ran wholesale purchasing behavior through two different clustering lenses, K-means and Ward hierarchical, and let silhouette width settle which segmentation actually held up. |
-| **[Student Testing Outcomes & Segmentation](https://github.com/salonijain279/Education-Testing-Disparity-Analysis)** | Segmented synthetic student-testing data with K-Means to see where outcome disparities cluster — a first pass at where an intervention would actually move the needle. |
+| **[Education Outcomes & Achievement Gap Segmentation](https://github.com/salonijain279/Education-Testing-Disparity-Analysis)** | Segmented synthetic student-testing data with K-Means to see where outcome disparities cluster — a first pass at where an intervention would actually move the needle. |
 
 ### Predictive Analytics & Statistical Modeling
 
 | Repository | What it demonstrates |
 |---|---|
-| **[Predictive Model Benchmarking](https://github.com/salonijain279/predictive-model-benchmarking)** | Ran two algorithm bake-offs end to end and let cross-validation pick the winner each time: XGBoost took bank-marketing classification at 0.934 ROC-AUC, Random Forest took real-estate pricing at 0.828 R². |
+| **[Predictive Model Benchmarking: Banking & Real Estate](https://github.com/salonijain279/predictive-model-benchmarking)** | Ran two algorithm bake-offs end to end and let cross-validation pick the winner each time: XGBoost took bank-marketing classification at 0.934 ROC-AUC, Random Forest took real-estate pricing at 0.828 R². |
 | **[Santander Customer Satisfaction](https://github.com/salonijain279/santander-customer-satisfaction)** | Found the signal in 76K anonymized, 24:1-imbalanced bank records most models would call noise — a five-model, Optuna-tuned blend landed 0.827 ROC-AUC on the private leaderboard. |
 | **[Interpretable Bankruptcy Risk](https://github.com/salonijain279/interpretable-bankruptcy-risk)** | Built a bankruptcy classifier that hits 0.852 accuracy, then interrogated its own reasoning four different ways (SHAP plus three other interpretation methods) to make sure the accuracy wasn't hiding a shortcut. |
 | **[VIX Volatility Forecasting](https://github.com/salonijain279/vix-volatility-forecasting)** | Pitted classical ARIMA against recursive XGBoost on 8,685 days of VIX data — the simpler model won by 9.8% lower test RMSE, proof more complex isn't automatically more accurate. |
@@ -76,9 +76,9 @@ Public repositories organized by analytical domain — every project links out t
 
 | Repository | What it demonstrates |
 |---|---|
-| **[Program & Policy Impact Evaluation](https://github.com/salonijain279/Quasi-Experimental-Causal-Inference)** | Three separate ways of answering "did this actually cause that" without a randomized trial — propensity-score matching, synthetic control, and regression discontinuity, applied in R. |
+| **[Causal Impact Evaluation: Policy & Program ROI](https://github.com/salonijain279/Quasi-Experimental-Causal-Inference)** | Three separate ways of answering "did this actually cause that" without a randomized trial — propensity-score matching, synthetic control, and regression discontinuity, applied in R. |
 | **[Sponsored Search Incrementality Analysis](https://github.com/salonijain279/Sponsored-Search-Incrementality-Analysis)** | Difference-in-Differences analysis asking the question paid search always dodges: how much of that traffic would have shown up organically anyway, and what that means for real ROI. |
-| **[A/B Testing & Intervention Impact Studies](https://github.com/salonijain279/Randomized-Experiment-Impact-Analysis)** | A run of randomized-intervention studies in R that don't stop at "did it work" — digging into who it worked for, and which causal assumptions would break the result if wrong. |
+| **[Randomized Experiment Impact Analysis](https://github.com/salonijain279/Randomized-Experiment-Impact-Analysis)** | A run of randomized-intervention studies in R that don't stop at "did it work" — digging into who it worked for, and which causal assumptions would break the result if wrong. |
 | **[Digital Advertising Channel Optimization](https://github.com/salonijain279/Digital-Advertising-Channel-Optimization)** | Randomized display-ad experiment measuring the lift that wouldn't have happened anyway, plus how response changes with ad frequency, to inform where budget should actually go. |
 | **[Competitor Bidding Analytics](https://github.com/salonijain279/Competitor-Bidding-Analytics)** | Built a Win Pressure Index from raw sealed-bid data — normalizing bidder identities and mapping co-bid overlap to score how much real competitive pressure was in each auction. (Client data kept private.) |
 
@@ -108,16 +108,16 @@ Public repositories organized by analytical domain — every project links out t
 
 | Repository | What it demonstrates |
 |---|---|
-| **[Spark ETL & Data Engineering Casebook](https://github.com/salonijain279/Spark-Data-Engineering-Casebook)** | Bronze-to-silver ETL pipelines built to survive a rerun without duplicating a single row — schema design and idempotent Parquet output proven across semi-structured records, clickstream flows, and route metrics. |
-| **[Distributed Machine Learning with PySpark](https://github.com/salonijain279/Distributed-Machine-Learning-with-PySpark)** | Took the usual ML pipeline — feature engineering, cross-validated model selection, classification and regression — and made it work at Spark scale instead of a single laptop's memory. |
-| **[Real-Time Analytics with Spark Streaming](https://github.com/salonijain279/Real-Time-Analytics-with-Spark-Streaming)** | Streaming pipelines that don't wait for a nightly batch job — file-based micro-batches, live text-signal processing, and watermark-bounded windows for IoT events arriving out of order. |
+| **[Spark ETL & Data Engineering Pipelines](https://github.com/salonijain279/Spark-Data-Engineering-Casebook)** | Bronze-to-silver ETL pipelines built to survive a rerun without duplicating a single row — schema design and idempotent Parquet output proven across semi-structured records, clickstream flows, and route metrics. |
+| **[PySpark ML Pipeline Engineering at Scale](https://github.com/salonijain279/Distributed-Machine-Learning-with-PySpark)** | Took the usual ML pipeline — feature engineering, cross-validated model selection, classification and regression — and made it work at Spark scale instead of a single laptop's memory. |
+| **[Real-Time Streaming Analytics Engineering](https://github.com/salonijain279/Real-Time-Analytics-with-Spark-Streaming)** | Streaming pipelines that don't wait for a nightly batch job — file-based micro-batches, live text-signal processing, and watermark-bounded windows for IoT events arriving out of order. |
 | **[MLflow & Containerized Model Serving](https://github.com/salonijain279/MLflow-and-Containerized-Model-Serving)** | Closed the loop from experiment to production: MLflow-tracked, reproducible training handed off to a typed FastAPI inference service, packaged in Docker so it runs the same everywhere. |
 
 ### Deep Learning
 
 | Repository | What it demonstrates |
 |---|---|
-| **[Deep Learning: Network Depth Theory & Transfer Learning](https://github.com/salonijain279/network-depth-theory-and-transfer-learning)** | Replicated a shallow-vs-deep-network theory result from scratch in PyTorch, then put it to work: EfficientNetB4 transfer learning hit 99.34% validation accuracy, well past a VGG16 baseline. |
+| **[Deep Learning: Transfer Learning for Image Classification](https://github.com/salonijain279/network-depth-theory-and-transfer-learning)** | Replicated a shallow-vs-deep-network theory result from scratch in PyTorch, then put it to work: EfficientNetB4 transfer learning hit 99.34% validation accuracy, well past a VGG16 baseline. |
 
 ### Operational & Geospatial Analytics
 
