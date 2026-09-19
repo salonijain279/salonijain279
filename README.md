@@ -69,6 +69,7 @@ Public repositories organized by analytical domain — every project links out t
 | Repository | What it demonstrates |
 |---|---|
 | **[InsightForge](https://github.com/salonijain279/InsightForge)** | An AI that runs the analysis before it explains it — routes plain-English questions to real EDA, predictive modeling, or guarded causal workflows, executes actual code, and only then writes up what happened. |
+| **[People Analytics KPI Agent](https://github.com/salonijain279/people-analytics-kpi-agent)** | A turnover-investigation agent where the language model never computes a number: each question becomes a validated Query Plan, deterministic pandas does the math, and a proactive scan flags departments worth investigating — including which department actually drove a company-wide shift. |
 | 🥇 **[PersonaPath](https://github.com/salonijain279/PersonaPath-Personalized-Travel_Dining_AI_Recommendation)** — First Place, Big Data & AI Trends Market 2026 | Modeled *how* people actually like to dine, not just distance and cuisine tags, by mining 261K reviews into 20,017 behavioral personas across 1,962 restaurants. My role: the LDA modeling and feature engineering underneath it. |
 | **[Databricks AI Gateway Chatbot](https://github.com/salonijain279/Databricks-AI-Gateway-Chatbot)** | A chatbot that remembers the conversation, not just the last message — built on Streamlit and backed by a Databricks-hosted language model. |
 
