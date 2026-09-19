@@ -108,10 +108,10 @@ Public repositories organized by analytical domain — every project links out t
 
 | Repository | What it demonstrates |
 |---|---|
-| **[Spark ETL & Data Engineering Pipelines](https://github.com/salonijain279/Spark-Data-Engineering-Casebook)** | Bronze-to-silver ETL pipelines built to survive a rerun without duplicating a single row — schema design and idempotent Parquet output proven across semi-structured records, clickstream flows, and route metrics. |
-| **[PySpark ML Pipeline Engineering at Scale](https://github.com/salonijain279/Distributed-Machine-Learning-with-PySpark)** | Took the usual ML pipeline — feature engineering, cross-validated model selection, classification and regression — and made it work at Spark scale instead of a single laptop's memory. |
-| **[Real-Time Streaming Analytics Engineering](https://github.com/salonijain279/Real-Time-Analytics-with-Spark-Streaming)** | Streaming pipelines that don't wait for a nightly batch job — file-based micro-batches, live text-signal processing, and watermark-bounded windows for IoT events arriving out of order. |
-| **[MLflow & Containerized Model Serving](https://github.com/salonijain279/MLflow-and-Containerized-Model-Serving)** | Closed the loop from experiment to production: MLflow-tracked, reproducible training handed off to a typed FastAPI inference service, packaged in Docker so it runs the same everywhere. |
+| **[Spark ETL Pipelines](https://github.com/salonijain279/spark-etl-pipelines)** | Bronze-to-silver ETL pipelines built to survive a rerun without duplicating a single row — schema design and idempotent Parquet output proven across semi-structured records, clickstream flows, and route metrics. |
+| **[PySpark ML Pipelines](https://github.com/salonijain279/pyspark-ml-pipelines)** | Took the usual ML pipeline — feature engineering, cross-validated model selection, classification and regression — and made it work at Spark scale instead of a single laptop's memory. |
+| **[Spark Structured Streaming Pipelines](https://github.com/salonijain279/spark-streaming-pipelines)** | Streaming pipelines that don't wait for a nightly batch job — file-based micro-batches, live text-signal processing, and watermark-bounded windows for IoT events arriving out of order. |
+| **[MLflow Model Serving API](https://github.com/salonijain279/mlflow-model-serving-api)** | Closed the loop from experiment to production: MLflow-tracked, reproducible training handed off to a typed FastAPI inference service, packaged in Docker so it runs the same everywhere. |
 
 ### Deep Learning
 
